@@ -20,7 +20,7 @@ services:
       - static_volume:/static
       - media_volume:/media
     ports:
-      - "8000:8000"
+      - "${HOST}:${PORT}:${PORT}"
     environment:
       - DEBUG=${DEBUG}
       - HOST=${HOST}
