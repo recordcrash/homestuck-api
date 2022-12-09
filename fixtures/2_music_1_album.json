@@ -1,0 +1,3478 @@
+[
+{
+  "model": "music.album",
+  "pk": 1,
+  "fields": {
+    "short_id": "homestuck-vol-1",
+    "name": "Homestuck Vol. 1",
+    "release_date": "2009-08-09",
+    "color": "#38f43d",
+    "notes": null,
+    "cover_art": 797,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3427
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 2,
+  "fields": {
+    "short_id": "homestuck-vol-2",
+    "name": "Homestuck Vol. 2",
+    "release_date": "2009-12-14",
+    "color": "#cb87f6",
+    "notes": null,
+    "cover_art": 875,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3492
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 3,
+  "fields": {
+    "short_id": "homestuck-vol-3",
+    "name": "Homestuck Vol. 3",
+    "release_date": "2009-12-15",
+    "color": "#ef001d",
+    "notes": null,
+    "cover_art": 889,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3501
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 4,
+  "fields": {
+    "short_id": "midnight-crew-drawing-dead",
+    "name": "Midnight Crew: Drawing Dead",
+    "release_date": "2010-02-04",
+    "color": "#dd0000",
+    "notes": null,
+    "cover_art": 1556,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3342,
+      4875,
+      4876
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 5,
+  "fields": {
+    "short_id": "homestuck-vol-4",
+    "name": "Homestuck Vol. 4",
+    "release_date": "2010-04-13",
+    "color": "#51a2fd",
+    "notes": null,
+    "cover_art": 904,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3514
+    ],
+    "commentary": [],
+    "files": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 6,
+  "fields": {
+    "short_id": "homestuck-vol-5",
+    "name": "Homestuck Vol. 5",
+    "release_date": "2010-06-13",
+    "color": "#00aaff",
+    "notes": null,
+    "cover_art": 925,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3529,
+      3530,
+      3531
+    ],
+    "commentary": [
+      27
+    ],
+    "files": [
+      46,
+      47
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 7,
+  "fields": {
+    "short_id": "exile",
+    "name": ">Exile<",
+    "release_date": "2010-06-14",
+    "color": "#8C285a",
+    "notes": null,
+    "cover_art": null,
+    "groups": [
+      2
+    ],
+    "urls": [
+      2909
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 8,
+  "fields": {
+    "short_id": "alternia",
+    "name": "Alternia",
+    "release_date": "2010-07-18",
+    "color": "#cc44ff",
+    "notes": null,
+    "cover_art": 11,
+    "groups": [
+      1,
+      16
+    ],
+    "urls": [
+      1343,
+      1344,
+      1345
+    ],
+    "commentary": [
+      49
+    ],
+    "files": [
+      2
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 9,
+  "fields": {
+    "short_id": "squiddles",
+    "name": "Squiddles!",
+    "release_date": "2010-08-26",
+    "color": "#bb44ff",
+    "notes": null,
+    "cover_art": 1858,
+    "groups": [
+      1
+    ],
+    "urls": [
+      6154
+    ],
+    "commentary": [],
+    "files": [
+      114,
+      115,
+      116
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 10,
+  "fields": {
+    "short_id": "the-baby-is-you",
+    "name": "The Baby is You",
+    "release_date": "2010-10-13",
+    "color": "#c89d96",
+    "notes": null,
+    "cover_art": 1901,
+    "groups": [
+      2,
+      16
+    ],
+    "urls": [
+      6294,
+      6295,
+      6296
+    ],
+    "commentary": [
+      70
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 11,
+  "fields": {
+    "short_id": "the-felt",
+    "name": "The Felt",
+    "release_date": "2010-12-02",
+    "color": "#33aa55",
+    "notes": null,
+    "cover_art": 1907,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3529,
+      6306,
+      6307
+    ],
+    "commentary": [],
+    "files": [
+      122
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 12,
+  "fields": {
+    "short_id": "homestuck-for-the-holidays",
+    "name": "Homestuck for the Holidays",
+    "release_date": "2010-12-25",
+    "color": "#b5d5fb",
+    "notes": null,
+    "cover_art": 792,
+    "groups": [
+      2,
+      5
+    ],
+    "urls": [
+      3291,
+      3292
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 13,
+  "fields": {
+    "short_id": "homestuck-vol-6",
+    "name": "Homestuck Vol. 6: Heir Transparent",
+    "release_date": "2011-01-05",
+    "color": "#6699ff",
+    "notes": null,
+    "cover_art": 986,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3529,
+      3662,
+      3663
+    ],
+    "commentary": [],
+    "files": [
+      48,
+      49
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 14,
+  "fields": {
+    "short_id": "strife",
+    "name": "Strife!",
+    "release_date": "2011-02-16",
+    "color": "#e83240",
+    "notes": null,
+    "cover_art": 1860,
+    "groups": [
+      1,
+      15
+    ],
+    "urls": [
+      6224,
+      6225,
+      6226,
+      6227
+    ],
+    "commentary": [],
+    "files": [
+      117,
+      118
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 15,
+  "fields": {
+    "short_id": "alterniabound",
+    "name": "AlterniaBound",
+    "release_date": "2011-03-14",
+    "color": "#00a4a4",
+    "notes": null,
+    "cover_art": 39,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1343,
+      1382
+    ],
+    "commentary": [
+      86
+    ],
+    "files": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 16,
+  "fields": {
+    "short_id": "tumblrstuck-bent-ost-volume-0",
+    "name": "Tumblrstuck/bent OST: Volume 0",
+    "release_date": "2011-03-27",
+    "color": "#c8c8c8",
+    "notes": null,
+    "cover_art": 1958,
+    "groups": [
+      2,
+      20
+    ],
+    "urls": [
+      6456
+    ],
+    "commentary": [
+      117
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 17,
+  "fields": {
+    "short_id": "medium",
+    "name": "Medium",
+    "release_date": "2011-04-14",
+    "color": "#22ccff",
+    "notes": null,
+    "cover_art": 1550,
+    "groups": [
+      1,
+      9
+    ],
+    "urls": [
+      4857,
+      4858
+    ],
+    "commentary": [],
+    "files": [
+      69
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 18,
+  "fields": {
+    "short_id": "homestuck-vol-7",
+    "name": "Homestuck Vol. 7: At the Price of Oblivion",
+    "release_date": "2011-05-31",
+    "color": "#b536da",
+    "notes": null,
+    "cover_art": 1007,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1907,
+      3706,
+      3707
+    ],
+    "commentary": [],
+    "files": [
+      50,
+      51,
+      52
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 19,
+  "fields": {
+    "short_id": "mobius-trip-and-hadron-kaleido",
+    "name": "Mobius Trip and Hadron Kaleido",
+    "release_date": "2011-05-31",
+    "color": "#eecc22",
+    "notes": null,
+    "cover_art": 1574,
+    "groups": [
+      1,
+      12
+    ],
+    "urls": [
+      4913,
+      4914,
+      4915,
+      4916
+    ],
+    "commentary": [
+      133
+    ],
+    "files": [
+      70,
+      71
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 20,
+  "fields": {
+    "short_id": "sburb",
+    "name": "Sburb",
+    "release_date": "2011-07-13",
+    "color": "#34cdff",
+    "notes": null,
+    "cover_art": 1763,
+    "groups": [
+      1
+    ],
+    "urls": [
+      6023,
+      6024
+    ],
+    "commentary": [
+      136
+    ],
+    "files": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 21,
+  "fields": {
+    "short_id": "the-wanderers",
+    "name": "The Wanderers",
+    "release_date": "2011-07-14",
+    "color": "#ffcc66",
+    "notes": null,
+    "cover_art": 1927,
+    "groups": [
+      1
+    ],
+    "urls": [
+      6387
+    ],
+    "commentary": [
+      149
+    ],
+    "files": [
+      123,
+      124,
+      125
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 22,
+  "fields": {
+    "short_id": "lofam",
+    "name": "Land of Fans and Music",
+    "release_date": "2011-07-30",
+    "color": "#4876ff",
+    "notes": null,
+    "cover_art": 1173,
+    "groups": [
+      2,
+      5
+    ],
+    "urls": [
+      4081,
+      4082
+    ],
+    "commentary": [
+      157
+    ],
+    "files": [
+      61
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 23,
+  "fields": {
+    "short_id": "prospit-and-derse",
+    "name": "Prospit & Derse",
+    "release_date": "2011-08-22",
+    "color": "#cc44cc",
+    "notes": null,
+    "cover_art": 1711,
+    "groups": [
+      1
+    ],
+    "urls": [
+      5330,
+      5331
+    ],
+    "commentary": [
+      211
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 24,
+  "fields": {
+    "short_id": "jailbreak-vol-1",
+    "name": "Jailbreak Vol. 1",
+    "release_date": "2011-10-16",
+    "color": "#ffd052",
+    "notes": null,
+    "cover_art": 1149,
+    "groups": [
+      2,
+      5
+    ],
+    "urls": [
+      3995,
+      3996
+    ],
+    "commentary": [
+      220
+    ],
+    "files": [
+      59
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 25,
+  "fields": {
+    "short_id": "homestuck-vol-1-4",
+    "name": "Homestuck Vol. 1-4",
+    "release_date": "2011-10-24",
+    "color": "#aaccff",
+    "notes": null,
+    "cover_art": 816,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3342,
+      3343,
+      3344
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 26,
+  "fields": {
+    "short_id": "homestuck-vol-8",
+    "name": "Homestuck Vol. 8",
+    "release_date": "2011-10-25",
+    "color": "#4ac925",
+    "notes": null,
+    "cover_art": 1035,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1907,
+      3748,
+      3749
+    ],
+    "commentary": [],
+    "files": [
+      53,
+      54,
+      55
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 27,
+  "fields": {
+    "short_id": "tomb-of-the-ancestors",
+    "name": "Tomb of the Ancestors",
+    "release_date": "2011-11-17",
+    "color": "#ff2433",
+    "notes": null,
+    "cover_art": 1946,
+    "groups": [
+      2,
+      5
+    ],
+    "urls": [
+      6414,
+      6415
+    ],
+    "commentary": [],
+    "files": [
+      126,
+      127
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 28,
+  "fields": {
+    "short_id": "team-paradox",
+    "name": "Team Paradox",
+    "release_date": "2011-12-27",
+    "color": "#a23c4e",
+    "notes": null,
+    "cover_art": 1878,
+    "groups": [
+      2
+    ],
+    "urls": [
+      6259
+    ],
+    "commentary": [
+      246
+    ],
+    "files": [
+      121
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 29,
+  "fields": {
+    "short_id": "glitchstuck-volume-1",
+    "name": "Glitchstuck Volume 1",
+    "release_date": "2012-01-01",
+    "color": "#04fe3a",
+    "notes": null,
+    "cover_art": 734,
+    "groups": [
+      2
+    ],
+    "urls": [
+      3017
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 30,
+  "fields": {
+    "short_id": "ithaca",
+    "name": "Ithaca",
+    "release_date": "2012-01-01",
+    "color": "#c82537",
+    "notes": null,
+    "cover_art": 1142,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      3982
+    ],
+    "commentary": [
+      247
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 31,
+  "fields": {
+    "short_id": "song-of-skaia",
+    "name": "Song of Skaia",
+    "release_date": "2012-01-01",
+    "color": "#02b7ff",
+    "notes": null,
+    "cover_art": 1829,
+    "groups": [
+      1
+    ],
+    "urls": [
+      6107,
+      6108
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 32,
+  "fields": {
+    "short_id": "nice-wizards-electronic-extravaganza",
+    "name": "Nice Wizard's Electronic Extravaganza!",
+    "release_date": "2012-02-07",
+    "color": "#636acc",
+    "notes": null,
+    "cover_art": 1596,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5092
+    ],
+    "commentary": [
+      248
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 33,
+  "fields": {
+    "short_id": "tumblrstuck-bent-ost-volume-1",
+    "name": "Tumblrstuck/bent OST: Volume 1",
+    "release_date": "2012-02-24",
+    "color": "#0161ff",
+    "notes": null,
+    "cover_art": 1960,
+    "groups": [
+      2,
+      20
+    ],
+    "urls": [
+      6464
+    ],
+    "commentary": [
+      258
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 34,
+  "fields": {
+    "short_id": "capricious-mistress-single",
+    "name": "Capricious Mistress - Single",
+    "release_date": "2012-03-17",
+    "color": "#7f01f9",
+    "notes": null,
+    "cover_art": 258,
+    "groups": [
+      2
+    ],
+    "urls": [
+      1905
+    ],
+    "commentary": [
+      267
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 35,
+  "fields": {
+    "short_id": "coloUrs-and-mayhem-universe-a",
+    "name": "coloUrs and mayhem: Universe A",
+    "release_date": "2012-04-02",
+    "color": "#9292e2",
+    "notes": null,
+    "cover_art": 281,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1964,
+      1965
+    ],
+    "commentary": [],
+    "files": [
+      18,
+      19
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 36,
+  "fields": {
+    "short_id": "olive-scribe",
+    "name": "Olive Scribe",
+    "release_date": "2012-04-02",
+    "color": "#82ad08",
+    "notes": null,
+    "cover_art": 1684,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5237
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 37,
+  "fields": {
+    "short_id": "fuchsia-ruler-single",
+    "name": "Fuchsia Ruler - Single",
+    "release_date": "2012-04-03",
+    "color": "#f8017b",
+    "notes": null,
+    "cover_art": 712,
+    "groups": [
+      2
+    ],
+    "urls": [
+      2976
+    ],
+    "commentary": [
+      283
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 38,
+  "fields": {
+    "short_id": "coloUrs-and-mayhem-universe-b",
+    "name": "coloUrs and mayhem: Universe B",
+    "release_date": "2012-04-13",
+    "color": "#a5d2e2",
+    "notes": null,
+    "cover_art": 314,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1964,
+      2031
+    ],
+    "commentary": [],
+    "files": [
+      20,
+      21
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 39,
+  "fields": {
+    "short_id": "7th-gate-project",
+    "name": "7th Gate Project",
+    "release_date": "2012-04-21",
+    "color": "#00fcf8",
+    "notes": null,
+    "cover_art": 1,
+    "groups": [
+      2
+    ],
+    "urls": [
+      1308
+    ],
+    "commentary": [
+      295
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 40,
+  "fields": {
+    "short_id": "homestuck-vol-9",
+    "name": "Homestuck Vol. 9",
+    "release_date": "2012-06-12",
+    "color": "#f2a400",
+    "notes": null,
+    "cover_art": 1084,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1339,
+      3832,
+      3833
+    ],
+    "commentary": [],
+    "files": [
+      56,
+      57,
+      58
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 41,
+  "fields": {
+    "short_id": "play-the-rain",
+    "name": "Play the Rain",
+    "release_date": "2012-07-14",
+    "color": "#b6beac",
+    "notes": null,
+    "cover_art": 1708,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5320
+    ],
+    "commentary": [
+      331
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 42,
+  "fields": {
+    "short_id": "symphony-impossible-to-play",
+    "name": "Symphony Impossible to Play",
+    "release_date": "2012-08-01",
+    "color": "#dd5544",
+    "notes": null,
+    "cover_art": 1872,
+    "groups": [
+      1,
+      9
+    ],
+    "urls": [
+      4857,
+      6249,
+      6250
+    ],
+    "commentary": [],
+    "files": [
+      119,
+      120
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 43,
+  "fields": {
+    "short_id": "one-year-older",
+    "name": "One Year Older",
+    "release_date": "2012-08-15",
+    "color": "#00aaff",
+    "notes": null,
+    "cover_art": 1688,
+    "groups": [
+      1
+    ],
+    "urls": [
+      5240,
+      5241
+    ],
+    "commentary": [
+      335
+    ],
+    "files": [
+      77,
+      78,
+      79
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 44,
+  "fields": {
+    "short_id": "we-are-all-satellites",
+    "name": "We Are All Satellites",
+    "release_date": "2012-10-04",
+    "color": "#b4bdc6",
+    "notes": null,
+    "cover_art": 1993,
+    "groups": [
+      3,
+      9
+    ],
+    "urls": [
+      6813
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 45,
+  "fields": {
+    "short_id": "heinoustuck-vol-1",
+    "name": "Heinoustuck Vol. 1",
+    "release_date": "2012-10-15",
+    "color": "#56648a",
+    "notes": null,
+    "cover_art": 749,
+    "groups": [
+      2
+    ],
+    "urls": [
+      3087
+    ],
+    "commentary": [
+      354
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 46,
+  "fields": {
+    "short_id": "homestuck-for-orchestra-ep",
+    "name": "Homestuck For Orchestra EP",
+    "release_date": "2012-10-16",
+    "color": "#7dc4ea",
+    "notes": null,
+    "cover_art": 786,
+    "groups": [
+      2
+    ],
+    "urls": [
+      3286
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 47,
+  "fields": {
+    "short_id": "genesis-frog",
+    "name": "Genesis Frog",
+    "release_date": "2012-10-23",
+    "color": "#00aa77",
+    "notes": null,
+    "cover_art": 718,
+    "groups": [
+      1
+    ],
+    "urls": [
+      2978,
+      2979,
+      2980
+    ],
+    "commentary": [
+      355
+    ],
+    "files": [
+      28,
+      29
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 48,
+  "fields": {
+    "short_id": "sburb-ost",
+    "name": "SBURB OST",
+    "release_date": "2012-11-24",
+    "color": "#ffb400",
+    "notes": null,
+    "cover_art": 1774,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      5910,
+      5911
+    ],
+    "commentary": [
+      375
+    ],
+    "files": [
+      109
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 49,
+  "fields": {
+    "short_id": "sburb-ost-bonus-dlc",
+    "name": "[Super-Unofficial Album] SBURB OST: BONUS DLC!",
+    "release_date": "2012-12-02",
+    "color": "#f9c4be",
+    "notes": null,
+    "cover_art": 1820,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      5898
+    ],
+    "commentary": [
+      429
+    ],
+    "files": [
+      110
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 50,
+  "fields": {
+    "short_id": "comfortable-bugs",
+    "name": "Comfortable Bugs",
+    "release_date": "2012-12-21",
+    "color": "#c3dcaf",
+    "notes": null,
+    "cover_art": 338,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      2098,
+      2099
+    ],
+    "commentary": [
+      431
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 51,
+  "fields": {
+    "short_id": "lofam2",
+    "name": "Land of Fans and Music 2",
+    "release_date": "2012-12-25",
+    "color": "#33a1c9",
+    "notes": null,
+    "cover_art": 1229,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      4188,
+      4189
+    ],
+    "commentary": [
+      432
+    ],
+    "files": [
+      62
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 52,
+  "fields": {
+    "short_id": "rust-apocalypse",
+    "name": "Rust Apocalypse",
+    "release_date": "2013-01-05",
+    "color": "#a10000",
+    "notes": null,
+    "cover_art": 1738,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5859
+    ],
+    "commentary": [
+      501
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 53,
+  "fields": {
+    "short_id": "namesake",
+    "name": "Namesake",
+    "release_date": "2013-03-08",
+    "color": "#c3cda8",
+    "notes": null,
+    "cover_art": 1595,
+    "groups": [
+      3,
+      9
+    ],
+    "urls": [
+      5080
+    ],
+    "commentary": [
+      502
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 54,
+  "fields": {
+    "short_id": "tumblrstuck-bent-ost-volume-2",
+    "name": "Tumblrstuck/bent OST: Volume 2",
+    "release_date": "2013-03-11",
+    "color": "#32f22d",
+    "notes": null,
+    "cover_art": 1966,
+    "groups": [
+      2,
+      20
+    ],
+    "urls": [
+      6473
+    ],
+    "commentary": [
+      503
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 55,
+  "fields": {
+    "short_id": "cherubim",
+    "name": "Cherubim",
+    "release_date": "2013-03-14",
+    "color": "#ff7600",
+    "notes": null,
+    "cover_art": 262,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1907,
+      1908,
+      1909
+    ],
+    "commentary": [
+      510
+    ],
+    "files": [
+      14,
+      15
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 56,
+  "fields": {
+    "short_id": "shortcuts",
+    "name": "Shortcuts",
+    "release_date": "2013-11-02",
+    "color": "#aca7b8",
+    "notes": null,
+    "cover_art": 1825,
+    "groups": [
+      3,
+      8
+    ],
+    "urls": [
+      6080
+    ],
+    "commentary": [
+      515
+    ],
+    "files": [
+      111,
+      112
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 57,
+  "fields": {
+    "short_id": "someday",
+    "name": "Someday",
+    "release_date": "2013-11-21",
+    "color": "#efcf96",
+    "notes": null,
+    "cover_art": 1828,
+    "groups": [
+      3,
+      9
+    ],
+    "urls": [
+      6103
+    ],
+    "commentary": [
+      522
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 58,
+  "fields": {
+    "short_id": "lofam3",
+    "name": "Land of Fans and Music 3",
+    "release_date": "2013-12-15",
+    "color": "#88a4ff",
+    "notes": null,
+    "cover_art": 1300,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      4329,
+      4330
+    ],
+    "commentary": [
+      523
+    ],
+    "files": [
+      63
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 59,
+  "fields": {
+    "short_id": "rust-apocalypse-anniversary-remaster",
+    "name": "Rust Apocalypse [Anniversary Remaster]",
+    "release_date": "2014-01-05",
+    "color": "#D36EA7",
+    "notes": null,
+    "cover_art": 1739,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5857
+    ],
+    "commentary": [],
+    "files": [
+      92,
+      93
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 60,
+  "fields": {
+    "short_id": "songs-unsung",
+    "name": "Songs Unsung",
+    "release_date": "2014-08-14",
+    "color": "#f6bd0e",
+    "notes": null,
+    "cover_art": 1856,
+    "groups": [
+      2,
+      15
+    ],
+    "urls": [
+      6145
+    ],
+    "commentary": [
+      586
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 61,
+  "fields": {
+    "short_id": "hush",
+    "name": "Hush",
+    "release_date": "2015-08-19",
+    "color": "#da3434",
+    "notes": null,
+    "cover_art": 1121,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      3936,
+      3937
+    ],
+    "commentary": [
+      587
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 62,
+  "fields": {
+    "short_id": "labyrinths-heart",
+    "name": "Labyrinth's Heart",
+    "release_date": "2015-09-02",
+    "color": "#9f887a",
+    "notes": null,
+    "cover_art": 1166,
+    "groups": [
+      3,
+      9
+    ],
+    "urls": [
+      4049,
+      4050
+    ],
+    "commentary": [],
+    "files": [
+      60
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 63,
+  "fields": {
+    "short_id": "undertale-soundtrack",
+    "name": "UNDERTALE Soundtrack",
+    "release_date": "2015-09-15",
+    "color": "#b962b9",
+    "notes": null,
+    "cover_art": 1969,
+    "groups": [
+      3,
+      16,
+      24
+    ],
+    "urls": [
+      6509,
+      6510
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 64,
+  "fields": {
+    "short_id": "s-collide",
+    "name": "[S] Collide.",
+    "release_date": "2016-04-06",
+    "color": "#cc3322",
+    "notes": null,
+    "cover_art": 1742,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1339,
+      5870,
+      5871
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 65,
+  "fields": {
+    "short_id": "beforus",
+    "name": "Beforus",
+    "release_date": "2016-04-12",
+    "color": "#ff00c5",
+    "notes": null,
+    "cover_art": 173,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      1695,
+      1696
+    ],
+    "commentary": [
+      591
+    ],
+    "files": [
+      13
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 66,
+  "fields": {
+    "short_id": "act-7",
+    "name": "Act 7",
+    "release_date": "2016-04-13",
+    "color": "#c7ff43",
+    "notes": null,
+    "cover_art": 8,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1339,
+      1342
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 67,
+  "fields": {
+    "short_id": "bee-forus-seatbelt-safebee",
+    "name": "Bee-forus: Seatbelt Safebee",
+    "release_date": "2016-04-16",
+    "color": "#f28514",
+    "notes": null,
+    "cover_art": 146,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      1666,
+      1667,
+      1668
+    ],
+    "commentary": [],
+    "files": [
+      12
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 68,
+  "fields": {
+    "short_id": "homestuck-vol-10",
+    "name": "Homestuck Vol. 10",
+    "release_date": "2016-06-12",
+    "color": "#0088ff",
+    "notes": null,
+    "cover_art": 855,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1339,
+      3439,
+      3440
+    ],
+    "commentary": [
+      674
+    ],
+    "files": [
+      32,
+      33
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 69,
+  "fields": {
+    "short_id": "cool-and-new-voulem1",
+    "name": "cool and new voulem.1",
+    "release_date": "2016-07-02",
+    "color": "#0164ff",
+    "notes": null,
+    "cover_art": 455,
+    "groups": [
+      2,
+      7
+    ],
+    "urls": [
+      2330,
+      2331
+    ],
+    "commentary": [
+      700
+    ],
+    "files": [
+      22
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 70,
+  "fields": {
+    "short_id": "archive",
+    "name": "Archive",
+    "release_date": "2016-07-19",
+    "color": "#89aebe",
+    "notes": null,
+    "cover_art": 136,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      1599,
+      1600
+    ],
+    "commentary": [
+      709
+    ],
+    "files": [
+      6,
+      7
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 71,
+  "fields": {
+    "short_id": "cool-and-new-volume-2",
+    "name": "cool and new volume 2",
+    "release_date": "2016-07-20",
+    "color": "#fa6006",
+    "notes": null,
+    "cover_art": 349,
+    "groups": [
+      2,
+      7
+    ],
+    "urls": [
+      2122,
+      2123
+    ],
+    "commentary": [
+      732
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 72,
+  "fields": {
+    "short_id": "cool-and-new-volume-ii",
+    "name": "cool and new volume II",
+    "release_date": "2016-07-20",
+    "color": "#ff8a84",
+    "notes": null,
+    "cover_art": 403,
+    "groups": [
+      2,
+      7
+    ],
+    "urls": [
+      2228,
+      2229
+    ],
+    "commentary": [
+      739
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 73,
+  "fields": {
+    "short_id": "gunshow-singalong",
+    "name": "[NSFW] Ｐｅｎｕｍｂｒａ オーガズム：百万ドルリミックス（ Ｇｕｎｓｈｏｗ Ｓｉｎｇａｌｏｎｇ ）の小ローン",
+    "release_date": "2016-08-01",
+    "color": "#f9ddde",
+    "notes": null,
+    "cover_art": 744,
+    "groups": [
+      2,
+      7
+    ],
+    "urls": [
+      3070,
+      3071
+    ],
+    "commentary": [
+      744
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 74,
+  "fields": {
+    "short_id": "of-troles-and-chiptumes",
+    "name": "Of Troles and Chiptumes",
+    "release_date": "2016-08-20",
+    "color": "#842f9e",
+    "notes": null,
+    "cover_art": 1669,
+    "groups": [
+      2,
+      7
+    ],
+    "urls": [
+      5206,
+      5207
+    ],
+    "commentary": [
+      745
+    ],
+    "files": [
+      76
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 75,
+  "fields": {
+    "short_id": "electric-daydreams",
+    "name": "Electric Daydreams",
+    "release_date": "2016-11-22",
+    "color": "#d15d34",
+    "notes": null,
+    "cover_art": 641,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      2846,
+      2847
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 76,
+  "fields": {
+    "short_id": "weird-puzzle-tunes",
+    "name": "Weird Puzzle Tunes",
+    "release_date": "2017-03-10",
+    "color": "#9e80c0",
+    "notes": null,
+    "cover_art": 1997,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      6824,
+      6825
+    ],
+    "commentary": [],
+    "files": [
+      128
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 77,
+  "fields": {
+    "short_id": "strife-2",
+    "name": "Strife 2",
+    "release_date": "2017-03-13",
+    "color": "#a347c5",
+    "notes": null,
+    "cover_art": 1867,
+    "groups": [
+      2,
+      15
+    ],
+    "urls": [
+      6178,
+      6179,
+      6180
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 78,
+  "fields": {
+    "short_id": "nuclears-explosion-1",
+    "name": "Nuclear's Explosion 1",
+    "release_date": "2017-04-24",
+    "color": "#b573a3",
+    "notes": null,
+    "cover_art": 1597,
+    "groups": [
+      3,
+      14
+    ],
+    "urls": [
+      5102
+    ],
+    "commentary": [
+      746
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 79,
+  "fields": {
+    "short_id": "oceanfalls-vol-1",
+    "name": "Oceanfalls Vol. 1",
+    "release_date": "2017-05-17",
+    "color": "#f5d906",
+    "notes": null,
+    "cover_art": 1605,
+    "groups": [
+      3,
+      22
+    ],
+    "urls": [
+      5130
+    ],
+    "commentary": [],
+    "files": [
+      74,
+      75
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 80,
+  "fields": {
+    "short_id": "vaporwave-2016",
+    "name": "『H☯MESTUCK VAP☯RWAVE 2016 RUH-RUH-RUH-ＲＥＭＩＸ』アンドレア・ヒューシー・グーグル翻訳",
+    "release_date": "2017-06-08",
+    "color": "#fb90b4",
+    "notes": null,
+    "cover_art": 1992,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      6783,
+      6784
+    ],
+    "commentary": [
+      753
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 81,
+  "fields": {
+    "short_id": "ancestral",
+    "name": "Ancestral",
+    "release_date": "2017-08-27",
+    "color": "#ff0300",
+    "notes": null,
+    "cover_art": 73,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      1443,
+      1444
+    ],
+    "commentary": [
+      754
+    ],
+    "files": [
+      5
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 82,
+  "fields": {
+    "short_id": "lofam4",
+    "name": "Land of Fans and Music 4",
+    "release_date": "2017-09-09",
+    "color": "#aed6f0",
+    "notes": null,
+    "cover_art": 1371,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      4457,
+      4458
+    ],
+    "commentary": [
+      827
+    ],
+    "files": [
+      64,
+      65
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 83,
+  "fields": {
+    "short_id": "chilled-processor",
+    "name": "Chilled Processor",
+    "release_date": "2017-09-10",
+    "color": "#80c9c9",
+    "notes": null,
+    "cover_art": 271,
+    "groups": [
+      3,
+      14
+    ],
+    "urls": [
+      1933
+    ],
+    "commentary": [
+      933
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 84,
+  "fields": {
+    "short_id": "hiveswap-act-1-ost",
+    "name": "Hiveswap Act 1 OST",
+    "release_date": "2017-09-14",
+    "color": "#33cc77",
+    "notes": null,
+    "cover_art": 763,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3104,
+      3105,
+      3106
+    ],
+    "commentary": [
+      934
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 85,
+  "fields": {
+    "short_id": "the-grubbles",
+    "name": "THE GRUBBLES",
+    "release_date": "2017-09-14",
+    "color": "#dd0000",
+    "notes": null,
+    "cover_art": 1923,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3104,
+      6376
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 86,
+  "fields": {
+    "short_id": "xenoplanetarium",
+    "name": "Xenoplanetarium",
+    "release_date": "2017-12-08",
+    "color": "#d790ca",
+    "notes": null,
+    "cover_art": 2018,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      6872,
+      6873
+    ],
+    "commentary": [
+      967
+    ],
+    "files": [
+      129
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 87,
+  "fields": {
+    "short_id": "entertaining-sound",
+    "name": "entertaining sound",
+    "release_date": "2017-12-14",
+    "color": "#00a38a",
+    "notes": null,
+    "cover_art": 648,
+    "groups": [
+      3
+    ],
+    "urls": [
+      2864,
+      2865
+    ],
+    "commentary": [
+      980
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 88,
+  "fields": {
+    "short_id": "gristmas-carols",
+    "name": "Gristmas Carols",
+    "release_date": "2017-12-25",
+    "color": "#05db00",
+    "notes": null,
+    "cover_art": 743,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      3048,
+      3049
+    ],
+    "commentary": [
+      1000
+    ],
+    "files": [
+      30,
+      31
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 89,
+  "fields": {
+    "short_id": "ava",
+    "name": "Ava - Original Soundtrack",
+    "release_date": "2017-12-31",
+    "color": "#4eea1c",
+    "notes": null,
+    "cover_art": 139,
+    "groups": [
+      3,
+      14
+    ],
+    "urls": [
+      1653
+    ],
+    "commentary": [
+      1010
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 90,
+  "fields": {
+    "short_id": "what",
+    "name": "WHAT",
+    "release_date": "2018-05-20",
+    "color": "#cf67f6",
+    "notes": null,
+    "cover_art": 2014,
+    "groups": [
+      3,
+      17
+    ],
+    "urls": [
+      6866
+    ],
+    "commentary": [
+      1011
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 91,
+  "fields": {
+    "short_id": "p-s",
+    "name": "P[S]",
+    "release_date": "2018-06-13",
+    "color": "#bbc0a8",
+    "notes": null,
+    "cover_art": 1705,
+    "groups": [
+      2,
+      8
+    ],
+    "urls": [
+      5278
+    ],
+    "commentary": [
+      1012
+    ],
+    "files": [
+      80,
+      81
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 92,
+  "fields": {
+    "short_id": "contritum",
+    "name": "Contritum",
+    "release_date": "2018-07-17",
+    "color": "#f30d00",
+    "notes": null,
+    "cover_art": 339,
+    "groups": [
+      3,
+      22
+    ],
+    "urls": [
+      2121
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 93,
+  "fields": {
+    "short_id": "deltarune-ch1-ost",
+    "name": "DELTARUNE Chapter 1 OST",
+    "release_date": "2018-11-01",
+    "color": "#00e4fe",
+    "notes": null,
+    "cover_art": 533,
+    "groups": [
+      3,
+      16,
+      24
+    ],
+    "urls": [
+      2504,
+      2505
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 94,
+  "fields": {
+    "short_id": "hiveswap-friendsim",
+    "name": "Hiveswap Friendsim",
+    "release_date": "2018-12-15",
+    "color": "#d3ff8f",
+    "notes": null,
+    "cover_art": 771,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3222,
+      3223,
+      3224
+    ],
+    "commentary": [
+      1014
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 95,
+  "fields": {
+    "short_id": "cosmic-caretakers",
+    "name": "Cosmic Caretakers",
+    "release_date": "2019-02-17",
+    "color": "#ff78da",
+    "notes": null,
+    "cover_art": 503,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      2436,
+      2437
+    ],
+    "commentary": [
+      1036
+    ],
+    "files": [
+      23,
+      24
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 96,
+  "fields": {
+    "short_id": "look-on-my-works-ye-mighty-and-despair",
+    "name": "Look On My Works Ye Mighty And Despair",
+    "release_date": "2019-03-19",
+    "color": "#428abd",
+    "notes": null,
+    "cover_art": 1544,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      4833,
+      4834
+    ],
+    "commentary": [
+      1070
+    ],
+    "files": [
+      68
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 97,
+  "fields": {
+    "short_id": "oceanfalls-vol-2",
+    "name": "Oceanfalls Vol. 2",
+    "release_date": "2019-04-27",
+    "color": "#ca7150",
+    "notes": null,
+    "cover_art": 1621,
+    "groups": [
+      3,
+      22
+    ],
+    "urls": [
+      5145
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 98,
+  "fields": {
+    "short_id": "moons-of-theseus",
+    "name": "Moons of Theseus",
+    "release_date": "2019-06-08",
+    "color": "#ffec14",
+    "notes": null,
+    "cover_art": 1583,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      4944
+    ],
+    "commentary": [],
+    "files": [
+      72,
+      73
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 99,
+  "fields": {
+    "short_id": "a-viral-medium-vol-1",
+    "name": "A Viral Medium Vol.1",
+    "release_date": "2019-07-27",
+    "color": "#884eb1",
+    "notes": null,
+    "cover_art": 6,
+    "groups": [
+      2
+    ],
+    "urls": [
+      1313,
+      1314
+    ],
+    "commentary": [],
+    "files": [
+      1
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 100,
+  "fields": {
+    "short_id": "the-genesis-project-vol-1",
+    "name": "The Genesis Project: Volume 1",
+    "release_date": "2019-07-31",
+    "color": "#e10a0b",
+    "notes": null,
+    "cover_art": 1922,
+    "groups": [
+      2,
+      19
+    ],
+    "urls": [
+      6362
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 101,
+  "fields": {
+    "short_id": "i-am-writing-myself-a-dream-in-a-letter",
+    "name": "I Am Writing Myself A Dream In A Letter",
+    "release_date": "2019-08-05",
+    "color": "#eda29c",
+    "notes": null,
+    "cover_art": 1125,
+    "groups": [
+      3,
+      13
+    ],
+    "urls": [
+      3958
+    ],
+    "commentary": [
+      1084
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 102,
+  "fields": {
+    "short_id": "songs-from-the-planet-earth",
+    "name": "Songs from the Planet Earth",
+    "release_date": "2019-09-09",
+    "color": "#ed547d",
+    "notes": null,
+    "cover_art": 1834,
+    "groups": [
+      3
+    ],
+    "urls": [
+      6115
+    ],
+    "commentary": [
+      1086
+    ],
+    "files": [
+      113
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 103,
+  "fields": {
+    "short_id": "triassic-slump",
+    "name": "Triassic Slump",
+    "release_date": "2019-11-05",
+    "color": "#29fd37",
+    "notes": null,
+    "cover_art": 1957,
+    "groups": [
+      3,
+      17
+    ],
+    "urls": [
+      6444
+    ],
+    "commentary": [
+      1100
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 104,
+  "fields": {
+    "short_id": "perfectly-generic-album",
+    "name": "Perfectly Generic Album",
+    "release_date": "2019-11-10",
+    "color": "#1cb611",
+    "notes": null,
+    "cover_art": 1706,
+    "groups": [
+      2,
+      10
+    ],
+    "urls": [
+      5305
+    ],
+    "commentary": [
+      1101
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 105,
+  "fields": {
+    "short_id": "losing-heart",
+    "name": "Losing Heart",
+    "release_date": "2019-12-20",
+    "color": "#f48080",
+    "notes": null,
+    "cover_art": 1547,
+    "groups": [
+      3,
+      14
+    ],
+    "urls": [
+      4855
+    ],
+    "commentary": [
+      1114
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 106,
+  "fields": {
+    "short_id": "old-world",
+    "name": "Old World",
+    "release_date": "2019-12-20",
+    "color": "#cdb38e",
+    "notes": null,
+    "cover_art": 1683,
+    "groups": [
+      3,
+      14
+    ],
+    "urls": [
+      5235
+    ],
+    "commentary": [
+      1115
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 107,
+  "fields": {
+    "short_id": "desynced-vol-1",
+    "name": "Desynced Vol. 1",
+    "release_date": "2020-02-07",
+    "color": "#ce3381",
+    "notes": null,
+    "cover_art": 541,
+    "groups": [
+      2,
+      18
+    ],
+    "urls": [
+      2634,
+      2635
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 108,
+  "fields": {
+    "short_id": "diverging-delicacies",
+    "name": "Diverging Delicacies",
+    "release_date": "2020-03-01",
+    "color": "#f2a400",
+    "notes": null,
+    "cover_art": 596,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      2744,
+      2745
+    ],
+    "commentary": [],
+    "files": [
+      25
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 109,
+  "fields": {
+    "short_id": "beyond-canon",
+    "name": "Beyond Canon",
+    "release_date": "2020-04-13",
+    "color": "#f2a400",
+    "notes": null,
+    "cover_art": 243,
+    "groups": [
+      1
+    ],
+    "urls": [
+      1861,
+      1862,
+      1863
+    ],
+    "commentary": [
+      1117
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 110,
+  "fields": {
+    "short_id": "the-funk-mclovin-homestuck-experience",
+    "name": "The Funk McLovin Homestuck Experience",
+    "release_date": "2020-04-13",
+    "color": "#a5f0a7",
+    "notes": null,
+    "cover_art": 1921,
+    "groups": [
+      2,
+      11
+    ],
+    "urls": [
+      6342
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 111,
+  "fields": {
+    "short_id": "theres-no-place-like-home",
+    "name": "There's No Place Like Home",
+    "release_date": "2020-04-15",
+    "color": "#957aff",
+    "notes": null,
+    "cover_art": 1942,
+    "groups": [
+      2
+    ],
+    "urls": [
+      6405,
+      6406
+    ],
+    "commentary": [
+      1136
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 112,
+  "fields": {
+    "short_id": "desynced-vol-2",
+    "name": "Desynced Vol. 2",
+    "release_date": "2020-06-19",
+    "color": "#667bd8",
+    "notes": null,
+    "cover_art": 567,
+    "groups": [
+      2,
+      18
+    ],
+    "urls": [
+      2682,
+      2683
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 113,
+  "fields": {
+    "short_id": "exceptis-excipiendis",
+    "name": "Exceptis Excipiendis",
+    "release_date": "2020-08-05",
+    "color": "#d080a1",
+    "notes": null,
+    "cover_art": 664,
+    "groups": [
+      3,
+      13
+    ],
+    "urls": [
+      2896
+    ],
+    "commentary": [
+      1137
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 114,
+  "fields": {
+    "short_id": "class-act-b-side",
+    "name": "CLASS ACT (B Side)",
+    "release_date": "2020-08-31",
+    "color": "#facab6",
+    "notes": null,
+    "cover_art": 275,
+    "groups": [
+      3,
+      11
+    ],
+    "urls": [
+      1934
+    ],
+    "commentary": [],
+    "files": [
+      17
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 115,
+  "fields": {
+    "short_id": "class-act",
+    "name": "CLASS ACT",
+    "release_date": "2020-08-31",
+    "color": "#ff1e47",
+    "notes": null,
+    "cover_art": 273,
+    "groups": [
+      3,
+      11
+    ],
+    "urls": [
+      1952
+    ],
+    "commentary": [],
+    "files": [
+      16
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 116,
+  "fields": {
+    "short_id": "ophiuchus-full-suite",
+    "name": "Ophiuchus (Full Suite)",
+    "release_date": "2020-09-11",
+    "color": "#844D9E",
+    "notes": null,
+    "cover_art": 1703,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5277
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 117,
+  "fields": {
+    "short_id": "bashful-hearts-out",
+    "name": "Bashful Hearts Out",
+    "release_date": "2020-09-30",
+    "color": "#f69f3c",
+    "notes": null,
+    "cover_art": 141,
+    "groups": [
+      3,
+      17
+    ],
+    "urls": [
+      1659
+    ],
+    "commentary": [],
+    "files": [
+      10,
+      11
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 118,
+  "fields": {
+    "short_id": "oceanfalls-vol-3",
+    "name": "Oceanfalls Vol. 3",
+    "release_date": "2020-10-11",
+    "color": "#ebe0ff",
+    "notes": null,
+    "cover_art": 1650,
+    "groups": [
+      3,
+      22
+    ],
+    "urls": [
+      5180,
+      5181
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 119,
+  "fields": {
+    "short_id": "perfectly-generic-object",
+    "name": "Perfectly Generic Object",
+    "release_date": "2020-11-10",
+    "color": "#59f669",
+    "notes": null,
+    "cover_art": 1707,
+    "groups": [
+      2,
+      10
+    ],
+    "urls": [
+      5319
+    ],
+    "commentary": [
+      1140
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 120,
+  "fields": {
+    "short_id": "are-you-lost",
+    "name": "✌︎❒︎♏︎ ⍓︎□︎◆︎ ●︎□︎⬧︎⧫︎✍︎",
+    "release_date": "2020-11-22",
+    "color": "#45cef2",
+    "notes": null,
+    "cover_art": 138,
+    "groups": [
+      3,
+      10
+    ],
+    "urls": [
+      1645
+    ],
+    "commentary": [
+      1141
+    ],
+    "files": [
+      8,
+      9
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 121,
+  "fields": {
+    "short_id": "the-baby-is-june",
+    "name": "The Baby is June",
+    "release_date": "2020-11-23",
+    "color": "#00c0ff",
+    "notes": null,
+    "cover_art": 1900,
+    "groups": [
+      2,
+      11
+    ],
+    "urls": [
+      6286,
+      6287
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 122,
+  "fields": {
+    "short_id": "hiveswap-act-2-ost",
+    "name": "Hiveswap Act 2 OST",
+    "release_date": "2020-11-26",
+    "color": "#f8f0cb",
+    "notes": null,
+    "cover_art": 765,
+    "groups": [
+      1
+    ],
+    "urls": [
+      3167,
+      3168
+    ],
+    "commentary": [
+      1142
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 123,
+  "fields": {
+    "short_id": "friendsymphony",
+    "name": "FriendSymphony",
+    "release_date": "2020-11-30",
+    "color": "#3ae0a5",
+    "notes": null,
+    "cover_art": 674,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      2928
+    ],
+    "commentary": [],
+    "files": [
+      26,
+      27
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 124,
+  "fields": {
+    "short_id": "inhospitable-delisted",
+    "name": "[INHOSPITABLE DELISTED]",
+    "release_date": "2021-01-04",
+    "color": "#08e758",
+    "notes": null,
+    "cover_art": 1130,
+    "groups": [
+      3,
+      14,
+      21
+    ],
+    "urls": [
+      3965
+    ],
+    "commentary": [
+      1143
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 125,
+  "fields": {
+    "short_id": "s-press-play",
+    "name": "[S] Press Play",
+    "release_date": "2021-01-04",
+    "color": "#a1c3fc",
+    "notes": null,
+    "cover_art": 1747,
+    "groups": [
+      2
+    ],
+    "urls": [
+      5880,
+      5881
+    ],
+    "commentary": [
+      1152
+    ],
+    "files": [
+      94
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 126,
+  "fields": {
+    "short_id": "election-season",
+    "name": "Election Season",
+    "release_date": "2021-01-10",
+    "color": "#d34b11",
+    "notes": null,
+    "cover_art": 625,
+    "groups": [
+      2,
+      18
+    ],
+    "urls": [
+      2802,
+      2803
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 127,
+  "fields": {
+    "short_id": "gravity-makes-the-flame-rise",
+    "name": "Gravity Makes The Flame Rise",
+    "release_date": "2021-01-26",
+    "color": "#b2a89d",
+    "notes": null,
+    "cover_art": 741,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      3026,
+      3027
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 128,
+  "fields": {
+    "short_id": "psycholonials-ep-1",
+    "name": "Psycholonials EP 1",
+    "release_date": "2021-02-03",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1721,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5348
+    ],
+    "commentary": [],
+    "files": [
+      83
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 129,
+  "fields": {
+    "short_id": "psycholonials-ep-2",
+    "name": "Psycholonials EP 2",
+    "release_date": "2021-02-17",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1723,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5352
+    ],
+    "commentary": [],
+    "files": [
+      84
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 130,
+  "fields": {
+    "short_id": "psycholonials-ep-3",
+    "name": "Psycholonials EP 3",
+    "release_date": "2021-02-24",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1725,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5358
+    ],
+    "commentary": [],
+    "files": [
+      85
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 131,
+  "fields": {
+    "short_id": "psycholonials-ep-4",
+    "name": "Psycholonials EP 4",
+    "release_date": "2021-03-03",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1727,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5362
+    ],
+    "commentary": [],
+    "files": [
+      86
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 132,
+  "fields": {
+    "short_id": "psycholonials-ep-5",
+    "name": "Psycholonials EP 5",
+    "release_date": "2021-03-10",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1729,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5368
+    ],
+    "commentary": [],
+    "files": [
+      87
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 133,
+  "fields": {
+    "short_id": "psycholonials-ep-6",
+    "name": "Psycholonials EP 6",
+    "release_date": "2021-03-24",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1731,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5372
+    ],
+    "commentary": [],
+    "files": [
+      88
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 134,
+  "fields": {
+    "short_id": "psycholonials-ep-7",
+    "name": "Psycholonials EP 7",
+    "release_date": "2021-03-31",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1733,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5376
+    ],
+    "commentary": [],
+    "files": [
+      89
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 135,
+  "fields": {
+    "short_id": "psycholonials-ep-8",
+    "name": "Psycholonials EP 8",
+    "release_date": "2021-04-13",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1735,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5380
+    ],
+    "commentary": [],
+    "files": [
+      90
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 136,
+  "fields": {
+    "short_id": "psycholonials-ep-9",
+    "name": "Psycholonials EP 9",
+    "release_date": "2021-04-20",
+    "color": "#f51806",
+    "notes": null,
+    "cover_art": 1737,
+    "groups": [
+      3,
+      23
+    ],
+    "urls": [
+      5384
+    ],
+    "commentary": [],
+    "files": [
+      91
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 137,
+  "fields": {
+    "short_id": "psycholonials",
+    "name": "Psycholonials",
+    "release_date": "2021-04-20",
+    "color": "#82a8d5",
+    "notes": null,
+    "cover_art": 1719,
+    "groups": [
+      3,
+      9,
+      23
+    ],
+    "urls": [
+      5394,
+      5395
+    ],
+    "commentary": [],
+    "files": [
+      82
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 138,
+  "fields": {
+    "short_id": "sburban-neighborhood",
+    "name": "SBURBAN NEIGHBORHOOD",
+    "release_date": "2021-06-12",
+    "color": "#68f279",
+    "notes": null,
+    "cover_art": 1821,
+    "groups": [
+      2
+    ],
+    "urls": [
+      6049,
+      6050
+    ],
+    "commentary": [
+      1153
+    ],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 139,
+  "fields": {
+    "short_id": "deltarune-ch2-ost",
+    "name": "DELTARUNE Chapter 2 OST",
+    "release_date": "2021-09-17",
+    "color": "#f1b95d",
+    "notes": null,
+    "cover_art": 535,
+    "groups": [
+      3,
+      16,
+      24
+    ],
+    "urls": [
+      2586,
+      2587
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 140,
+  "fields": {
+    "short_id": "lofam5",
+    "name": "Land of Fans and Music 5",
+    "release_date": "2021-12-19",
+    "color": "#00E5A7",
+    "notes": null,
+    "cover_art": 1477,
+    "groups": [
+      2,
+      6
+    ],
+    "urls": [
+      4669,
+      4670
+    ],
+    "commentary": [
+      1167
+    ],
+    "files": [
+      66,
+      67
+    ]
+  }
+},
+{
+  "model": "music.album",
+  "pk": 141,
+  "fields": {
+    "short_id": "heaven-sent",
+    "name": "Heaven;Sent",
+    "release_date": "2022-03-05",
+    "color": "#e20084",
+    "notes": null,
+    "cover_art": 745,
+    "groups": [
+      2
+    ],
+    "urls": [
+      3072
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 142,
+  "fields": {
+    "short_id": "homestuck-swagazaki",
+    "name": "Homestuck",
+    "release_date": "2022-03-05",
+    "color": "#0080ff",
+    "notes": null,
+    "cover_art": 793,
+    "groups": [
+      2
+    ],
+    "urls": [
+      3334
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 143,
+  "fields": {
+    "short_id": "skaias-the-limit",
+    "name": "SKAIA'S THE LIMIT",
+    "release_date": "2022-07-16",
+    "color": "#fff26f",
+    "notes": null,
+    "cover_art": 1826,
+    "groups": [
+      2
+    ],
+    "urls": [
+      6088,
+      6089
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 144,
+  "fields": {
+    "short_id": "ulterior-motives",
+    "name": "Ulterior Motives",
+    "release_date": "2022-07-20",
+    "color": "#a7aeb2",
+    "notes": null,
+    "cover_art": 1967,
+    "groups": [
+      3,
+      12
+    ],
+    "urls": [
+      6480,
+      6481
+    ],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 145,
+  "fields": {
+    "short_id": "more-homestuck-fandom",
+    "name": "More Homestuck Fandom",
+    "release_date": null,
+    "color": "#6c75f5",
+    "notes": null,
+    "cover_art": null,
+    "groups": [
+      4
+    ],
+    "urls": [],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 146,
+  "fields": {
+    "short_id": "references-beyond-homestuck",
+    "name": "References Beyond Homestuck",
+    "release_date": null,
+    "color": "#f5fc8e",
+    "notes": null,
+    "cover_art": null,
+    "groups": [
+      4
+    ],
+    "urls": [],
+    "commentary": [],
+    "files": []
+  }
+},
+{
+  "model": "music.album",
+  "pk": 147,
+  "fields": {
+    "short_id": "unreleased-tracks",
+    "name": "Unreleased Tracks",
+    "release_date": null,
+    "color": "#fc5f65",
+    "notes": null,
+    "cover_art": 1976,
+    "groups": [
+      4
+    ],
+    "urls": [],
+    "commentary": [],
+    "files": []
+  }
+}
+]

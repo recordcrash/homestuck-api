@@ -1,0 +1,15 @@
+[
+{
+  "model": "comic.comic",
+  "pk": 1,
+  "fields": {
+    "short_id": "homestuck",
+    "name": "Homestuck",
+    "start_date": "2009-04-13",
+    "end_date": "2016-10-25",
+    "color": "00FF00",
+    "image": "",
+    "urls": []
+  }
+}
+]

@@ -1,0 +1,35 @@
+# Django
+Django>=4.1.3
+djangorestframework>=3.14.0
+django-filter>=22.1
+
+# Pillow for ImageFields
+Pillow>=9.3.0
+
+# Render ArrayFields in a good way
+django-better-admin-arrayfield>=1.4.2
+
+# Render colors in admin
+django-colorfield>=0.8.0
+
+# Django toolbar for making our million queries easier to debug
+django-debug-toolbar>=3.8.1
+
+# Delete files when File and Arts are deleted
+django-cleanup>=6.0.0
+
+# Django REST Framework extensions
+django-filter>=2.4.0  # for REST filtering support
+django-cors-headers>=3.10.0  # for CORS support
+
+# OpenAPI and markup
+PyYAML>=6.0  # for YAML support
+uritemplate>=4.1.1  # for OpenAPI support
+Markdown>=3.4.1  # for Markdown support
+Pygments>=2.13.0  # for syntax highlighting in Markdown
+
+# Postgres
+psycopg2>=2.9.5
+
+# Short id generation
+Unidecode>=1.3.6

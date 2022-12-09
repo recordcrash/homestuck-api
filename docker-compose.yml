@@ -1,0 +1,40 @@
+version: "3.9"
+services:
+  db:
+    container_name: postgres_homestuck
+    image: postgres
+    volumes:
+      - media_volume:/data
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+  web:
+    container_name: django_homestuck
+    restart: always
+    build: .
+    command: python manage.py runserver ${HOST}:${PORT}
+    volumes:
+      - static_volume:/static
+      - media_volume:/media
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=${DEBUG}
+      - HOST=${HOST}
+      - PORT=${PORT}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - TIME_ZONE=${TIME_ZONE}
+      - DJANGO_SUPERUSER_USERNAME=${DJANGO_SUPERUSER_USERNAME}
+      - DJANGO_SUPERUSER_PASSWORD=${DJANGO_SUPERUSER_PASSWORD}
+      - DJANGO_SUPERUSER_EMAIL=${DJANGO_SUPERUSER_EMAIL}
+    depends_on:
+      - db
+volumes:
+  postgres_volume:
+  media_volume:
+  static_volume:

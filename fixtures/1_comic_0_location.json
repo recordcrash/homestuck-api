@@ -1,0 +1,2852 @@
+[
+{
+  "model": "comic.location",
+  "pk": 1,
+  "fields": {
+    "short_id": "john",
+    "name": "John",
+    "color": "#4c56e6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 2,
+  "fields": {
+    "short_id": "june",
+    "name": "June",
+    "color": "#4c56e6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 3,
+  "fields": {
+    "short_id": "jhon",
+    "name": "Jhon",
+    "color": "#4c56e6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 4,
+  "fields": {
+    "short_id": "john-heinoustuck",
+    "name": "John (Heinoustuck)",
+    "color": "#4c56e6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 5,
+  "fields": {
+    "short_id": "rose",
+    "name": "Rose",
+    "color": "#b536da",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 6,
+  "fields": {
+    "short_id": "rose-heinoustuck",
+    "name": "Rose (Heinoustuck)",
+    "color": "#b536da",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 7,
+  "fields": {
+    "short_id": "dave",
+    "name": "Dave",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 8,
+  "fields": {
+    "short_id": "dabe",
+    "name": "Dabe",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 9,
+  "fields": {
+    "short_id": "dave-heinoustuck",
+    "name": "Dave (Heinoustuck)",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 10,
+  "fields": {
+    "short_id": "jade",
+    "name": "Jade",
+    "color": "#4ac925",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 11,
+  "fields": {
+    "short_id": "jaed",
+    "name": "Jaed",
+    "color": "#4ac925",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 12,
+  "fields": {
+    "short_id": "jade-heinoustuck",
+    "name": "Jade (Heinoustuck)",
+    "color": "#4ac925",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 13,
+  "fields": {
+    "short_id": "jane",
+    "name": "Jane",
+    "color": "#00d5f2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 14,
+  "fields": {
+    "short_id": "roxy",
+    "name": "Roxy",
+    "color": "#ff6ff2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 15,
+  "fields": {
+    "short_id": "dirk",
+    "name": "Dirk",
+    "color": "#f2a400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 16,
+  "fields": {
+    "short_id": "jake",
+    "name": "Jake",
+    "color": "#1f9400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 17,
+  "fields": {
+    "short_id": "karkat",
+    "name": "Karkat",
+    "color": "#7c7e81",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 18,
+  "fields": {
+    "short_id": "kraket",
+    "name": "Kraket",
+    "color": "#7c7e81",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 19,
+  "fields": {
+    "short_id": "the-signless",
+    "name": "The Signless",
+    "color": "#7c7e81",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 20,
+  "fields": {
+    "short_id": "kankri",
+    "name": "Kankri",
+    "color": "#ff0000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 21,
+  "fields": {
+    "short_id": "karkats-lusus",
+    "name": "Karkat's lusus",
+    "color": "#7c7e81",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 22,
+  "fields": {
+    "short_id": "aradia",
+    "name": "Aradia",
+    "color": "#a10000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 23,
+  "fields": {
+    "short_id": "the-handmaid",
+    "name": "The Handmaid",
+    "color": "#a10000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 24,
+  "fields": {
+    "short_id": "damara",
+    "name": "Damara",
+    "color": "#a10000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 25,
+  "fields": {
+    "short_id": "aradias-lusus",
+    "name": "Aradia's lusus",
+    "color": "#a10000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 26,
+  "fields": {
+    "short_id": "tavros",
+    "name": "Tavros",
+    "color": "#a15000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 27,
+  "fields": {
+    "short_id": "the-summoner",
+    "name": "The Summoner",
+    "color": "#a15000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 28,
+  "fields": {
+    "short_id": "rufioh",
+    "name": "Rufioh",
+    "color": "#a15000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 29,
+  "fields": {
+    "short_id": "tavros-lusus",
+    "name": "Tavros' lusus",
+    "color": "#a15000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 30,
+  "fields": {
+    "short_id": "sollux",
+    "name": "Sollux",
+    "color": "#a1a100",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 31,
+  "fields": {
+    "short_id": "the-psiioniic",
+    "name": "The Psiioniic",
+    "color": "#a1a100",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 32,
+  "fields": {
+    "short_id": "mituna",
+    "name": "Mituna",
+    "color": "#a1a100",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 33,
+  "fields": {
+    "short_id": "solluxs-lusus",
+    "name": "Sollux's lusus",
+    "color": "#a1a100",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 34,
+  "fields": {
+    "short_id": "nepeta",
+    "name": "Nepeta",
+    "color": "#416600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 35,
+  "fields": {
+    "short_id": "the-disciple",
+    "name": "The Disciple",
+    "color": "#416600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 36,
+  "fields": {
+    "short_id": "meulin",
+    "name": "Meulin",
+    "color": "#416600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 37,
+  "fields": {
+    "short_id": "nepetas-lusus",
+    "name": "Nepeta's lusus",
+    "color": "#416600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 38,
+  "fields": {
+    "short_id": "kanaya",
+    "name": "Kanaya",
+    "color": "#008141",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 39,
+  "fields": {
+    "short_id": "the-dolorosa",
+    "name": "The Dolorosa",
+    "color": "#008141",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 40,
+  "fields": {
+    "short_id": "porrim",
+    "name": "Porrim",
+    "color": "#008141",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 41,
+  "fields": {
+    "short_id": "kanayas-lusus",
+    "name": "Kanaya's lusus",
+    "color": "#008141",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 42,
+  "fields": {
+    "short_id": "terezi",
+    "name": "Terezi",
+    "color": "#008282",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 43,
+  "fields": {
+    "short_id": "terexi",
+    "name": "Terexi",
+    "color": "#008282",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 44,
+  "fields": {
+    "short_id": "redglare",
+    "name": "Redglare",
+    "color": "#008282",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 45,
+  "fields": {
+    "short_id": "latula",
+    "name": "Latula",
+    "color": "#008282",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 46,
+  "fields": {
+    "short_id": "vriska",
+    "name": "Vriska",
+    "color": "#005682",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 47,
+  "fields": {
+    "short_id": "mindfang",
+    "name": "Mindfang",
+    "color": "#005682",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 48,
+  "fields": {
+    "short_id": "aranea",
+    "name": "Aranea",
+    "color": "#005682",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 49,
+  "fields": {
+    "short_id": "vriskas-lusus",
+    "name": "Vriska's lusus",
+    "color": "#005682",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 50,
+  "fields": {
+    "short_id": "equius",
+    "name": "Equius",
+    "color": "#1313be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 51,
+  "fields": {
+    "short_id": "equihorse",
+    "name": "Equihorse",
+    "color": "#1313be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 52,
+  "fields": {
+    "short_id": "the-expatriate",
+    "name": "The Expatriate",
+    "color": "#1313be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 53,
+  "fields": {
+    "short_id": "horuss",
+    "name": "Horuss",
+    "color": "#1313be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 54,
+  "fields": {
+    "short_id": "equiuss-lusus",
+    "name": "Equius's lusus",
+    "color": "#1313be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 55,
+  "fields": {
+    "short_id": "gamzee",
+    "name": "Gamzee",
+    "color": "#6800d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 56,
+  "fields": {
+    "short_id": "gametez",
+    "name": "Gametez",
+    "color": "#6800d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 57,
+  "fields": {
+    "short_id": "the-grand-highblood",
+    "name": "The Grand Highblood",
+    "color": "#6b00d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 58,
+  "fields": {
+    "short_id": "kurloz",
+    "name": "Kurloz",
+    "color": "#6b00d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 59,
+  "fields": {
+    "short_id": "gamzees-lusus",
+    "name": "Gamzee's lusus",
+    "color": "#6b00d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 60,
+  "fields": {
+    "short_id": "eridan",
+    "name": "Eridan",
+    "color": "#9e009e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 61,
+  "fields": {
+    "short_id": "dualscar",
+    "name": "Dualscar",
+    "color": "#9e009e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 62,
+  "fields": {
+    "short_id": "cronus",
+    "name": "Cronus",
+    "color": "#9e009e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 63,
+  "fields": {
+    "short_id": "eridans-lusus",
+    "name": "Eridan's lusus",
+    "color": "#9e009e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 64,
+  "fields": {
+    "short_id": "feferi",
+    "name": "Feferi",
+    "color": "#77003c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 65,
+  "fields": {
+    "short_id": "the-condesce",
+    "name": "The Condesce",
+    "color": "#77003c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 66,
+  "fields": {
+    "short_id": "meenah",
+    "name": "Meenah",
+    "color": "#77003c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 67,
+  "fields": {
+    "short_id": "feferis-lusus",
+    "name": "Feferi's lusus",
+    "color": "#77003c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 68,
+  "fields": {
+    "short_id": "calliope",
+    "name": "Calliope",
+    "color": "#a1a3a6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 69,
+  "fields": {
+    "short_id": "caliborn",
+    "name": "Caliborn",
+    "color": "#009c68",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 70,
+  "fields": {
+    "short_id": "calmasis",
+    "name": "Calmasis",
+    "color": "#929292",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 71,
+  "fields": {
+    "short_id": "jaspers",
+    "name": "Jaspers",
+    "color": "#f141ef",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 72,
+  "fields": {
+    "short_id": "davesprite",
+    "name": "Davesprite",
+    "color": "#f2a400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 73,
+  "fields": {
+    "short_id": "jadesprite",
+    "name": "Jadesprite",
+    "color": "#1f9400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 74,
+  "fields": {
+    "short_id": "arquiusprite",
+    "name": "Arquiusprite",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 75,
+  "fields": {
+    "short_id": "davepeta",
+    "name": "Davepeta",
+    "color": "#f2a400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 76,
+  "fields": {
+    "short_id": "jasprose",
+    "name": "Jasprose",
+    "color": "#b536da",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 77,
+  "fields": {
+    "short_id": "scalemates",
+    "name": "Scalemates",
+    "color": "#ffff01",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 78,
+  "fields": {
+    "short_id": "bees",
+    "name": "Bees",
+    "color": "#fcba03",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 79,
+  "fields": {
+    "short_id": "birds",
+    "name": "Birds",
+    "color": "#ee3333",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 80,
+  "fields": {
+    "short_id": "cats",
+    "name": "Cats",
+    "color": "#eee333",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 81,
+  "fields": {
+    "short_id": "horses",
+    "name": "Horses",
+    "color": "#c76e26",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 82,
+  "fields": {
+    "short_id": "imperial-drones",
+    "name": "Imperial Drones",
+    "color": "#fb0332",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 83,
+  "fields": {
+    "short_id": "consorts",
+    "name": "Consorts",
+    "color": "#f6fa4e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 84,
+  "fields": {
+    "short_id": "angels",
+    "name": "Angels",
+    "color": "#e0e0e0",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 85,
+  "fields": {
+    "short_id": "denizens",
+    "name": "Denizens",
+    "color": "#47dff9",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 86,
+  "fields": {
+    "short_id": "cherubs",
+    "name": "Cherubs",
+    "color": "#ff7600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 87,
+  "fields": {
+    "short_id": "genesis-frog",
+    "name": "Genesis Frog",
+    "color": "#c7ff43",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 88,
+  "fields": {
+    "short_id": "frogs",
+    "name": "Frogs",
+    "color": "#06ffc9",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 89,
+  "fields": {
+    "short_id": "carapacians",
+    "name": "Carapacians",
+    "color": "#c6c6c6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 90,
+  "fields": {
+    "short_id": "underlings",
+    "name": "Underlings",
+    "color": "#ff2106",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 91,
+  "fields": {
+    "short_id": "maplehoof",
+    "name": "Maplehoof",
+    "color": "#ff7bf7",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 92,
+  "fields": {
+    "short_id": "horrorterrors",
+    "name": "Horrorterrors",
+    "color": "#b678ce",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 93,
+  "fields": {
+    "short_id": "squiddles",
+    "name": "Squiddles",
+    "color": "#cb87f6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 94,
+  "fields": {
+    "short_id": "squarewave",
+    "name": "Squarewave",
+    "color": "#ff0000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 95,
+  "fields": {
+    "short_id": "sawtooth",
+    "name": "Sawtooth",
+    "color": "#a7a7a7",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 96,
+  "fields": {
+    "short_id": "sbahj",
+    "name": "SBaHJ",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 97,
+  "fields": {
+    "short_id": "homosuck",
+    "name": "Homosuck",
+    "color": "#009c68",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 98,
+  "fields": {
+    "short_id": "rabbit",
+    "name": "Rabbit",
+    "color": "#ffde55",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 99,
+  "fields": {
+    "short_id": "pyralspite",
+    "name": "Pyralspite",
+    "color": "#ff2106",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 100,
+  "fields": {
+    "short_id": "gate",
+    "name": "Gate",
+    "color": "#f8fcbf",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 101,
+  "fields": {
+    "short_id": "lotus",
+    "name": "Lotus",
+    "color": "#f7addc",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 102,
+  "fields": {
+    "short_id": "matriorb",
+    "name": "Matriorb",
+    "color": "#008141",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 103,
+  "fields": {
+    "short_id": "tumor",
+    "name": "Tumor",
+    "color": "#808080",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 104,
+  "fields": {
+    "short_id": "green-sun",
+    "name": "Green Sun",
+    "color": "#00ff00",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 105,
+  "fields": {
+    "short_id": "god-cat",
+    "name": "God Cat",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 106,
+  "fields": {
+    "short_id": "becquerel",
+    "name": "Becquerel",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 107,
+  "fields": {
+    "short_id": "beq",
+    "name": "Beq",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 108,
+  "fields": {
+    "short_id": "johns-dad",
+    "name": "John's dad",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 109,
+  "fields": {
+    "short_id": "dadd",
+    "name": "Dadd",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 110,
+  "fields": {
+    "short_id": "johns-nanna",
+    "name": "John's nanna",
+    "color": "#00d5f2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 111,
+  "fields": {
+    "short_id": "roses-mom",
+    "name": "Rose's mom",
+    "color": "#ff6ff2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 112,
+  "fields": {
+    "short_id": "daves-bro",
+    "name": "Dave's bro",
+    "color": "#f2a400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 113,
+  "fields": {
+    "short_id": "jades-grandpa",
+    "name": "Jade's grandpa",
+    "color": "#1f9400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 114,
+  "fields": {
+    "short_id": "janes-grandpa",
+    "name": "Jane's grandpa",
+    "color": "#4c56e6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 115,
+  "fields": {
+    "short_id": "roxys-mom",
+    "name": "Roxy's mom",
+    "color": "#b536da",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 116,
+  "fields": {
+    "short_id": "dirks-bro",
+    "name": "Dirk's bro",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 117,
+  "fields": {
+    "short_id": "jakes-grandma",
+    "name": "Jake's grandma",
+    "color": "#4ac925",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 118,
+  "fields": {
+    "short_id": "femorafreack",
+    "name": "Femorafreack",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 119,
+  "fields": {
+    "short_id": "wv",
+    "name": "WV",
+    "color": "#e0e0e0",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 120,
+  "fields": {
+    "short_id": "pm",
+    "name": "PM",
+    "color": "#eeeeee",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 121,
+  "fields": {
+    "short_id": "ar",
+    "name": "AR",
+    "color": "#ffea00",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 122,
+  "fields": {
+    "short_id": "wq",
+    "name": "WQ",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 123,
+  "fields": {
+    "short_id": "wk",
+    "name": "WK",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 124,
+  "fields": {
+    "short_id": "bq",
+    "name": "BQ",
+    "color": "#7b7b7b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 125,
+  "fields": {
+    "short_id": "bk",
+    "name": "BK",
+    "color": "#7b7b7b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 126,
+  "fields": {
+    "short_id": "hb",
+    "name": "HB",
+    "color": "#bf0000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 127,
+  "fields": {
+    "short_id": "hrates-bocars",
+    "name": "Hrates Bocars",
+    "color": "#bf0000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 128,
+  "fields": {
+    "short_id": "cd",
+    "name": "CD",
+    "color": "#a8a8a8",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 129,
+  "fields": {
+    "short_id": "rubs-juice",
+    "name": "Rubs Juice",
+    "color": "#a8a8a8",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 130,
+  "fields": {
+    "short_id": "dd",
+    "name": "DD",
+    "color": "#c39797",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 131,
+  "fields": {
+    "short_id": "dacronian-dignity",
+    "name": "Dacronian Dignity",
+    "color": "#c39797",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 132,
+  "fields": {
+    "short_id": "jack-noir",
+    "name": "Jack Noir",
+    "color": "#7b7b7b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 133,
+  "fields": {
+    "short_id": "serenity",
+    "name": "Serenity",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 134,
+  "fields": {
+    "short_id": "doc-scratch",
+    "name": "Doc Scratch",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 135,
+  "fields": {
+    "short_id": "snowman",
+    "name": "Snowman",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 136,
+  "fields": {
+    "short_id": "ah",
+    "name": "AH",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 137,
+  "fields": {
+    "short_id": "mspa-reader",
+    "name": "MSPA Reader",
+    "color": "#ffffff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 138,
+  "fields": {
+    "short_id": "lord-english",
+    "name": "Lord English",
+    "color": "#2ed73a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 139,
+  "fields": {
+    "short_id": "lil-cal",
+    "name": "Lil Cal",
+    "color": "#2ed73a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 140,
+  "fields": {
+    "short_id": "the-felt",
+    "name": "The Felt",
+    "color": "#008c45",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 141,
+  "fields": {
+    "short_id": "alternate-calliope",
+    "name": "Alternate Calliope",
+    "color": "#ff0000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 142,
+  "fields": {
+    "short_id": "sweet-bro",
+    "name": "Sweet Bro",
+    "color": "#e6032e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 143,
+  "fields": {
+    "short_id": "swet-bro",
+    "name": "Swet Bro",
+    "color": "#f34a5e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 144,
+  "fields": {
+    "short_id": "hella-jeff",
+    "name": "Hella Jeff",
+    "color": "#023cff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 145,
+  "fields": {
+    "short_id": "hecka-jef",
+    "name": "Hecka Jef",
+    "color": "#f34a5e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 146,
+  "fields": {
+    "short_id": "germy",
+    "name": "Germy",
+    "color": "#f34a5e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 147,
+  "fields": {
+    "short_id": "joey",
+    "name": "Joey",
+    "color": "#41a455",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 148,
+  "fields": {
+    "short_id": "jude",
+    "name": "Jude",
+    "color": "#06c9cc",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 149,
+  "fields": {
+    "short_id": "xefros",
+    "name": "Xefros",
+    "color": "#f42123",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 150,
+  "fields": {
+    "short_id": "dammek",
+    "name": "Dammek",
+    "color": "#a15000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 151,
+  "fields": {
+    "short_id": "trizza",
+    "name": "Trizza",
+    "color": "#77003c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 152,
+  "fields": {
+    "short_id": "harry",
+    "name": "Harry",
+    "color": "#0671cd",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 153,
+  "fields": {
+    "short_id": "tavvy",
+    "name": "Tavvy",
+    "color": "#5e00bd",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 154,
+  "fields": {
+    "short_id": "vrissy",
+    "name": "Vrissy",
+    "color": "#005682",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 155,
+  "fields": {
+    "short_id": "diemen",
+    "name": "Diemen",
+    "color": "#f42123",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 156,
+  "fields": {
+    "short_id": "fozzer",
+    "name": "Fozzer",
+    "color": "#f42123",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 157,
+  "fields": {
+    "short_id": "marsti",
+    "name": "Marsti",
+    "color": "#f42123",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 158,
+  "fields": {
+    "short_id": "chixie",
+    "name": "Chixie",
+    "color": "#cd7f32",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 159,
+  "fields": {
+    "short_id": "skylla",
+    "name": "Skylla",
+    "color": "#cd7f32",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 160,
+  "fields": {
+    "short_id": "skyllas-lusus",
+    "name": "Skylla's lusus",
+    "color": "#cd7f32",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 161,
+  "fields": {
+    "short_id": "azdaja",
+    "name": "Azdaja",
+    "color": "#abab1a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 162,
+  "fields": {
+    "short_id": "cirava",
+    "name": "Cirava",
+    "color": "#abab1a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 163,
+  "fields": {
+    "short_id": "folykl",
+    "name": "Folykl",
+    "color": "#abab1a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 164,
+  "fields": {
+    "short_id": "kuprum",
+    "name": "Kuprum",
+    "color": "#abab1a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 165,
+  "fields": {
+    "short_id": "zebede",
+    "name": "Zebede",
+    "color": "#abab1a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 166,
+  "fields": {
+    "short_id": "boldir",
+    "name": "Boldir",
+    "color": "#71a020",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 167,
+  "fields": {
+    "short_id": "charun",
+    "name": "Charun",
+    "color": "#71a020",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 168,
+  "fields": {
+    "short_id": "konyyl",
+    "name": "Konyyl",
+    "color": "#71a020",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 169,
+  "fields": {
+    "short_id": "polypa",
+    "name": "Polypa",
+    "color": "#71a020",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 170,
+  "fields": {
+    "short_id": "bronya",
+    "name": "Bronya",
+    "color": "#2caa6b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 171,
+  "fields": {
+    "short_id": "daraya",
+    "name": "Daraya",
+    "color": "#2caa6b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 172,
+  "fields": {
+    "short_id": "lanque",
+    "name": "Lanque",
+    "color": "#2caa6b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 173,
+  "fields": {
+    "short_id": "lynera",
+    "name": "Lynera",
+    "color": "#2caa6b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 174,
+  "fields": {
+    "short_id": "wanshi",
+    "name": "Wanshi",
+    "color": "#2caa6b",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 175,
+  "fields": {
+    "short_id": "stelsa",
+    "name": "Stelsa",
+    "color": "#26baba",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 176,
+  "fields": {
+    "short_id": "tagora",
+    "name": "Tagora",
+    "color": "#26baba",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 177,
+  "fields": {
+    "short_id": "tegiri",
+    "name": "Tegiri",
+    "color": "#26baba",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 178,
+  "fields": {
+    "short_id": "tyzias",
+    "name": "Tyzias",
+    "color": "#26baba",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 179,
+  "fields": {
+    "short_id": "ardata",
+    "name": "Ardata",
+    "color": "#3796c6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 180,
+  "fields": {
+    "short_id": "mallek",
+    "name": "Mallek",
+    "color": "#3796c6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 181,
+  "fields": {
+    "short_id": "remele",
+    "name": "Remele",
+    "color": "#3796c6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 182,
+  "fields": {
+    "short_id": "amisia",
+    "name": "Amisia",
+    "color": "#6464ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 183,
+  "fields": {
+    "short_id": "zebruh",
+    "name": "Zebruh",
+    "color": "#6464ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 184,
+  "fields": {
+    "short_id": "nihkee",
+    "name": "Nihkee",
+    "color": "#6464ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 185,
+  "fields": {
+    "short_id": "baizli",
+    "name": "Baizli",
+    "color": "#a954ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 186,
+  "fields": {
+    "short_id": "barzum",
+    "name": "Barzum",
+    "color": "#a954ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 187,
+  "fields": {
+    "short_id": "chahut",
+    "name": "Chahut",
+    "color": "#a954ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 188,
+  "fields": {
+    "short_id": "karako",
+    "name": "Karako",
+    "color": "#a954ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 189,
+  "fields": {
+    "short_id": "marvus",
+    "name": "Marvus",
+    "color": "#a954ff",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 190,
+  "fields": {
+    "short_id": "problem-sleuth",
+    "name": "Problem Sleuth",
+    "color": "#26cb68",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 191,
+  "fields": {
+    "short_id": "ace-dick",
+    "name": "Ace Dick",
+    "color": "#ed0101",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 192,
+  "fields": {
+    "short_id": "pickle-inspector",
+    "name": "Pickle Inspector",
+    "color": "#3960f0",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 193,
+  "fields": {
+    "short_id": "mobius-trip",
+    "name": "Mobius Trip",
+    "color": "#ffff01",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 194,
+  "fields": {
+    "short_id": "hadron-kaleido",
+    "name": "Hadron Kaleido",
+    "color": "#ff01fe",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 195,
+  "fields": {
+    "short_id": "alternia",
+    "name": "Alternia",
+    "color": "#7d34eb",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 196,
+  "fields": {
+    "short_id": "beforus",
+    "name": "Beforus",
+    "color": "#d743be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 197,
+  "fields": {
+    "short_id": "battlefield",
+    "name": "Battlefield",
+    "color": "#cff0f7",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 198,
+  "fields": {
+    "short_id": "can-town",
+    "name": "Can Town",
+    "color": "#f7cf60",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 199,
+  "fields": {
+    "short_id": "derse",
+    "name": "Derse",
+    "color": "#ff01fe",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 200,
+  "fields": {
+    "short_id": "dream-bubbles",
+    "name": "Dream Bubbles",
+    "color": "#c2b2eb",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 201,
+  "fields": {
+    "short_id": "earth",
+    "name": "Earth",
+    "color": "#6bf45f",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 202,
+  "fields": {
+    "short_id": "ruined-earth",
+    "name": "Ruined Earth",
+    "color": "#d9cbab",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 203,
+  "fields": {
+    "short_id": "felt-manor",
+    "name": "Felt Manor",
+    "color": "#008c45",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 204,
+  "fields": {
+    "short_id": "frog-temple",
+    "name": "Frog Temple",
+    "color": "#c1dd58",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 205,
+  "fields": {
+    "short_id": "the-theseus",
+    "name": "The Theseus",
+    "color": "#f2a400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 206,
+  "fields": {
+    "short_id": "deltritus",
+    "name": "Deltritus",
+    "color": "#62c9e7",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 207,
+  "fields": {
+    "short_id": "lobaf",
+    "name": "LoBaF",
+    "color": "#a1a100",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 208,
+  "fields": {
+    "short_id": "locah",
+    "name": "LoCaH",
+    "color": "#00d5f2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 209,
+  "fields": {
+    "short_id": "locas",
+    "name": "LoCaS",
+    "color": "#1313be",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 210,
+  "fields": {
+    "short_id": "lodag",
+    "name": "LoDaG",
+    "color": "#77003c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 211,
+  "fields": {
+    "short_id": "lofaf",
+    "name": "LoFaF",
+    "color": "#4ac925",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 212,
+  "fields": {
+    "short_id": "lofam",
+    "name": "LoFaM",
+    "color": "#aed6f0",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 213,
+  "fields": {
+    "short_id": "lohac",
+    "name": "LoHaC",
+    "color": "#e00707",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 214,
+  "fields": {
+    "short_id": "lolar",
+    "name": "LoLaR",
+    "color": "#b536da",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 215,
+  "fields": {
+    "short_id": "lolcat",
+    "name": "LoLCaT",
+    "color": "#416600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 216,
+  "fields": {
+    "short_id": "lomat",
+    "name": "LoMaT",
+    "color": "#005682",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 217,
+  "fields": {
+    "short_id": "lomax",
+    "name": "LoMaX",
+    "color": "#1f9400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 218,
+  "fields": {
+    "short_id": "lopah",
+    "name": "LoPaH",
+    "color": "#ff0000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 219,
+  "fields": {
+    "short_id": "lopan",
+    "name": "LoPaN",
+    "color": "#ff6ff2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 220,
+  "fields": {
+    "short_id": "loraf",
+    "name": "LoRaF",
+    "color": "#008141",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 221,
+  "fields": {
+    "short_id": "lotak",
+    "name": "LoTaK",
+    "color": "#f2a400",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 222,
+  "fields": {
+    "short_id": "lotam",
+    "name": "LoTaM",
+    "color": "#6800d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 223,
+  "fields": {
+    "short_id": "loqam",
+    "name": "LoQaM",
+    "color": "#a10000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 224,
+  "fields": {
+    "short_id": "losaz",
+    "name": "LoSaZ",
+    "color": "#a15000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 225,
+  "fields": {
+    "short_id": "lotaf",
+    "name": "LoTaF",
+    "color": "#008282",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 226,
+  "fields": {
+    "short_id": "lowaa",
+    "name": "LoWaA",
+    "color": "#9e009e",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 227,
+  "fields": {
+    "short_id": "lowas",
+    "name": "LoWaS",
+    "color": "#4c56e6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 228,
+  "fields": {
+    "short_id": "meteor",
+    "name": "Meteor",
+    "color": "#7c7e81",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 229,
+  "fields": {
+    "short_id": "prospit",
+    "name": "Prospit",
+    "color": "#ffff01",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 230,
+  "fields": {
+    "short_id": "skaia",
+    "name": "Skaia",
+    "color": "#4bdcf9",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 231,
+  "fields": {
+    "short_id": "veil",
+    "name": "Veil",
+    "color": "#6a6a6a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 232,
+  "fields": {
+    "short_id": "dark-carnival",
+    "name": "Dark Carnival",
+    "color": "#6800d6",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 233,
+  "fields": {
+    "short_id": "sans",
+    "name": "Sans",
+    "color": "#84fff2",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 234,
+  "fields": {
+    "short_id": "kate-desynced",
+    "name": "Kate (Desynced)",
+    "color": "#ce3382",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 235,
+  "fields": {
+    "short_id": "kates-dad-desynced",
+    "name": "Kate's dad (Desynced)",
+    "color": "#6e3382",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 236,
+  "fields": {
+    "short_id": "evan-desynced",
+    "name": "Evan (Desynced)",
+    "color": "#4545f9",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 237,
+  "fields": {
+    "short_id": "evans-mum-desynced",
+    "name": "Evan's mum (Desynced)",
+    "color": "#00c8c3",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 238,
+  "fields": {
+    "short_id": "momo-desynced",
+    "name": "Momo (Desynced)",
+    "color": "#dd1c1c",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 239,
+  "fields": {
+    "short_id": "josh-desynced",
+    "name": "Josh (Desynced)",
+    "color": "#1cdd8d",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 240,
+  "fields": {
+    "short_id": "enid-desynced",
+    "name": "Enid (Desynced)",
+    "color": "#fba500",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 241,
+  "fields": {
+    "short_id": "lee-desynced",
+    "name": "Lee (Desynced)",
+    "color": "#0b1f81",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 242,
+  "fields": {
+    "short_id": "ananke-desynced",
+    "name": "Ananke (Desynced)",
+    "color": "#850b59",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 243,
+  "fields": {
+    "short_id": "her-desynced",
+    "name": "\"Her\" (Desynced)",
+    "color": "#5c0474",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 244,
+  "fields": {
+    "short_id": "masky-desynced",
+    "name": "Masky (Desynced)",
+    "color": "#e9e9e9",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 245,
+  "fields": {
+    "short_id": "gaea-desynced",
+    "name": "Gaea (Desynced)",
+    "color": "#3091ef",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 246,
+  "fields": {
+    "short_id": "skaia-desynced",
+    "name": "Skaia (Desynced)",
+    "color": "#fff2d7",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 247,
+  "fields": {
+    "short_id": "aria-oceanfalls",
+    "name": "Aria (Oceanfalls)",
+    "color": "#8d58b5",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 248,
+  "fields": {
+    "short_id": "corona-oceanfalls",
+    "name": "Corona (Oceanfalls)",
+    "color": "#a3cb6a",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 249,
+  "fields": {
+    "short_id": "five-oceanfalls",
+    "name": "Five (Oceanfalls)",
+    "color": "#c578d4",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 250,
+  "fields": {
+    "short_id": "kaji-oceanfalls",
+    "name": "Kaji (Oceanfalls)",
+    "color": "#76d8fd",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 251,
+  "fields": {
+    "short_id": "kotori-oceanfalls",
+    "name": "Kotori (Oceanfalls)",
+    "color": "#eb0013",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 252,
+  "fields": {
+    "short_id": "lune-oceanfalls",
+    "name": "Lune (Oceanfalls)",
+    "color": "#a380c4",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 253,
+  "fields": {
+    "short_id": "meimona-oceanfalls",
+    "name": "Meimona (Oceanfalls)",
+    "color": "#318fee",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 254,
+  "fields": {
+    "short_id": "nino-oceanfalls",
+    "name": "Nino (Oceanfalls)",
+    "color": "#359e41",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 255,
+  "fields": {
+    "short_id": "onyx-oceanfalls",
+    "name": "Onyx (Oceanfalls)",
+    "color": "#e6c380",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 256,
+  "fields": {
+    "short_id": "reed-oceanfalls",
+    "name": "Reed (Oceanfalls)",
+    "color": "#9a6062",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 257,
+  "fields": {
+    "short_id": "ruit-oceanfalls",
+    "name": "Ruit (Oceanfalls)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 258,
+  "fields": {
+    "short_id": "ruta-oceanfalls",
+    "name": "Ruta (Oceanfalls)",
+    "color": "#5b4fd4",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 259,
+  "fields": {
+    "short_id": "selene-oceanfalls",
+    "name": "Selene (Oceanfalls)",
+    "color": "#fef49f",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 260,
+  "fields": {
+    "short_id": "serena-oceanfalls",
+    "name": "Serena (Oceanfalls)",
+    "color": "#ffda9f",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 261,
+  "fields": {
+    "short_id": "solis-oceanfalls",
+    "name": "Solis (Oceanfalls)",
+    "color": "#ff6600",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 262,
+  "fields": {
+    "short_id": "suvillan-oceanfalls",
+    "name": "Suvillan (Oceanfalls)",
+    "color": "#ff0401",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 263,
+  "fields": {
+    "short_id": "shrek",
+    "name": "Shrek",
+    "color": "#a9c500",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 264,
+  "fields": {
+    "short_id": "alcohol",
+    "name": "alcohol",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 265,
+  "fields": {
+    "short_id": "animal-abuse",
+    "name": "animal abuse",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 266,
+  "fields": {
+    "short_id": "animal-death",
+    "name": "animal death",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 267,
+  "fields": {
+    "short_id": "arachnid",
+    "name": "arachnid",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 268,
+  "fields": {
+    "short_id": "asphyxiation",
+    "name": "asphyxiation",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 269,
+  "fields": {
+    "short_id": "asphyxiation-abstract",
+    "name": "asphyxiation (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 270,
+  "fields": {
+    "short_id": "blood",
+    "name": "blood",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 271,
+  "fields": {
+    "short_id": "blood-abstract",
+    "name": "blood (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 272,
+  "fields": {
+    "short_id": "body-horror",
+    "name": "body horror",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 273,
+  "fields": {
+    "short_id": "body-horror-abstract",
+    "name": "body horror (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 274,
+  "fields": {
+    "short_id": "cops",
+    "name": "cops",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 275,
+  "fields": {
+    "short_id": "corpse",
+    "name": "corpse",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 276,
+  "fields": {
+    "short_id": "corpse-abstract",
+    "name": "corpse (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 277,
+  "fields": {
+    "short_id": "corpses",
+    "name": "corpses",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 278,
+  "fields": {
+    "short_id": "corpses-abstract",
+    "name": "corpses (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 279,
+  "fields": {
+    "short_id": "decapitation",
+    "name": "decapitation",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 280,
+  "fields": {
+    "short_id": "decapitation-abstract",
+    "name": "decapitation (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 281,
+  "fields": {
+    "short_id": "eye-horror",
+    "name": "eye horror",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 282,
+  "fields": {
+    "short_id": "hanging",
+    "name": "hanging",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 283,
+  "fields": {
+    "short_id": "hanging-abstract",
+    "name": "hanging (abstract)",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 284,
+  "fields": {
+    "short_id": "genitalia",
+    "name": "genitalia",
+    "color": "#000000",
+    "image": ""
+  }
+},
+{
+  "model": "comic.location",
+  "pk": 285,
+  "fields": {
+    "short_id": "racial-slur",
+    "name": "racial slur",
+    "color": "#000000",
+    "image": ""
+  }
+}
+]

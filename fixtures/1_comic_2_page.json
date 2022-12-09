@@ -1,0 +1,1707 @@
+[
+{
+  "model": "comic.page",
+  "pk": 1,
+  "fields": {
+    "short_id": "31",
+    "name": "John: Examine games on CD rack.",
+    "number": 31,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 2,
+  "fields": {
+    "short_id": "77",
+    "name": "[S] John: Play haunting piano refrain.",
+    "number": 77,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 3,
+  "fields": {
+    "short_id": "82",
+    "name": "[S] ==>",
+    "number": 82,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 4,
+  "fields": {
+    "short_id": "88",
+    "name": "[S] John: Enter.",
+    "number": 88,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 5,
+  "fields": {
+    "short_id": "90",
+    "name": "[S] STRIFE!",
+    "number": 90,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 6,
+  "fields": {
+    "short_id": "137",
+    "name": "[S] ==>",
+    "number": 137,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 7,
+  "fields": {
+    "short_id": "186",
+    "name": "[S] ==>",
+    "number": 186,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 8,
+  "fields": {
+    "short_id": "222",
+    "name": "[S] Rose: Play a haunting refrain on the violin.",
+    "number": 222,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 9,
+  "fields": {
+    "short_id": "246",
+    "name": "[S] John: Take bite of apple.",
+    "number": 246,
+    "act": 1,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 10,
+  "fields": {
+    "short_id": "253",
+    "name": "[S] YOU THERE. BOY.",
+    "number": 253,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 11,
+  "fields": {
+    "short_id": "338",
+    "name": "[S] ==>",
+    "number": 338,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 12,
+  "fields": {
+    "short_id": "388",
+    "name": "[S] Rose: Youth roll right out the front door.",
+    "number": 388,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 13,
+  "fields": {
+    "short_id": "393",
+    "name": "[S] ==>==>==>!!!!!!!!!",
+    "number": 393,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 14,
+  "fields": {
+    "short_id": "397",
+    "name": "[S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER.",
+    "number": 397,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 15,
+  "fields": {
+    "short_id": "400",
+    "name": "[S] JOHN, SALVAGE YOUR WEAPON AND FIGHT ON!",
+    "number": 400,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 16,
+  "fields": {
+    "short_id": "418",
+    "name": "[S] WHAT THIS IS SO OUTRAGEOUS",
+    "number": 418,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 17,
+  "fields": {
+    "short_id": "422",
+    "name": "[S] GO ON. ==>",
+    "number": 422,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 18,
+  "fields": {
+    "short_id": "476",
+    "name": "[S] ==>",
+    "number": 476,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 19,
+  "fields": {
+    "short_id": "644",
+    "name": "[S] John: Sleep.",
+    "number": 644,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 20,
+  "fields": {
+    "short_id": "651",
+    "name": "[S] John: Wake up.",
+    "number": 651,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 21,
+  "fields": {
+    "short_id": "665",
+    "name": "[S] Dave: Ascend to the highest point of the building.",
+    "number": 665,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 22,
+  "fields": {
+    "short_id": "721",
+    "name": "[S] WV: Lead your men to victory!",
+    "number": 721,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 23,
+  "fields": {
+    "short_id": "755",
+    "name": "[S] WV: Hasten to the exit post-haste!",
+    "number": 755,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 24,
+  "fields": {
+    "short_id": "757",
+    "name": "[S] WV: Ascend.",
+    "number": 757,
+    "act": 2,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 25,
+  "fields": {
+    "short_id": "769",
+    "name": "[S] Jade: Play a silly flute refrain.",
+    "number": 769,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 26,
+  "fields": {
+    "short_id": "822",
+    "name": "[S] Jade: Play a hauntingly relaxing bassline.",
+    "number": 822,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 27,
+  "fields": {
+    "short_id": "830",
+    "name": "[S] Jade: Open FreshJamz!",
+    "number": 830,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 28,
+  "fields": {
+    "short_id": "833",
+    "name": "[S] MIDNIGHT CREW: ACT 1031",
+    "number": 833,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 29,
+  "fields": {
+    "short_id": "836",
+    "name": "[S] Dave: STRIFE.",
+    "number": 836,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 30,
+  "fields": {
+    "short_id": "843",
+    "name": "[S] Jade: Descend.",
+    "number": 843,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 31,
+  "fields": {
+    "short_id": "871",
+    "name": "[S] Dave: Abscond.",
+    "number": 871,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 32,
+  "fields": {
+    "short_id": "879",
+    "name": "[S] Rose: Ascend.",
+    "number": 879,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 33,
+  "fields": {
+    "short_id": "918",
+    "name": "[S] Strife!!!",
+    "number": 918,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 34,
+  "fields": {
+    "short_id": "938",
+    "name": "[S] Rose: Fast forward to now.",
+    "number": 938,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 35,
+  "fields": {
+    "short_id": "pony",
+    "name": "[S] Ride.",
+    "number": null,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 36,
+  "fields": {
+    "short_id": "948",
+    "name": "[S] John: Examine your dad's room.",
+    "number": 948,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 37,
+  "fields": {
+    "short_id": "979",
+    "name": "[S] John: Mental breakdown.",
+    "number": 979,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 38,
+  "fields": {
+    "short_id": "980",
+    "name": "[S] Jade: Retrieve package.",
+    "number": 980,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 39,
+  "fields": {
+    "short_id": "1026",
+    "name": "[S] Jade: Dream up extra arms and play advanced bass solo.",
+    "number": 1026,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 40,
+  "fields": {
+    "short_id": "1070",
+    "name": "[S] Dave: Strife!",
+    "number": 1070,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 41,
+  "fields": {
+    "short_id": "1073",
+    "name": "[S] Jade: Pester John.",
+    "number": 1073,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 42,
+  "fields": {
+    "short_id": "1149",
+    "name": "[S] Enter.",
+    "number": 1149,
+    "act": 3,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 43,
+  "fields": {
+    "short_id": "1267",
+    "name": "[S][I] ==>",
+    "number": 1267,
+    "act": 4,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 44,
+  "fields": {
+    "short_id": "1358",
+    "name": "[S] ACT 4 ==>",
+    "number": 1358,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 45,
+  "fields": {
+    "short_id": "1407",
+    "name": "[S] ==>",
+    "number": 1407,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 46,
+  "fields": {
+    "short_id": "1641",
+    "name": "[S] Dave: Accelerate.",
+    "number": 1641,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 47,
+  "fields": {
+    "short_id": "1656",
+    "name": "[S] ==>",
+    "number": 1656,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 48,
+  "fields": {
+    "short_id": "1668",
+    "name": "[S] Jack: Ascend.",
+    "number": 1668,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 49,
+  "fields": {
+    "short_id": "1720",
+    "name": "[S] Rose and Dave: Shut up and jam.",
+    "number": 1720,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 50,
+  "fields": {
+    "short_id": "1801",
+    "name": "[S] WV?: Rise up.",
+    "number": 1801,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 51,
+  "fields": {
+    "short_id": "1931",
+    "name": "[S] John: Reunite with your loving wife and daughter.",
+    "number": 1931,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 52,
+  "fields": {
+    "short_id": "1940",
+    "name": "[S] Descend.",
+    "number": 1940,
+    "act": 5,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 53,
+  "fields": {
+    "short_id": "2070",
+    "name": "[S???] ======>",
+    "number": 2070,
+    "act": 6,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 54,
+  "fields": {
+    "short_id": "2578",
+    "name": "[S] Make her pay.",
+    "number": 2578,
+    "act": 6,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 55,
+  "fields": {
+    "short_id": "2626",
+    "name": "[S] ACT 5 ACT 2 ==>",
+    "number": 2626,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 56,
+  "fields": {
+    "short_id": "2672",
+    "name": "Vriska: What's his deal????????",
+    "number": 2672,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 57,
+  "fields": {
+    "short_id": "2787",
+    "name": "[S] Vriska: Watch street tough maverick with nothing to lose",
+    "number": 2787,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 58,
+  "fields": {
+    "short_id": "2792",
+    "name": "[S] Past Karkat: Wake up.",
+    "number": 2792,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 59,
+  "fields": {
+    "short_id": "2818",
+    "name": "Dave: Answer Gamzee.",
+    "number": 2818,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 60,
+  "fields": {
+    "short_id": "2848",
+    "name": "[S] Jade: Wake up.",
+    "number": 2848,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 61,
+  "fields": {
+    "short_id": "2927",
+    "name": "[S] Jade: Enter.",
+    "number": 2927,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 62,
+  "fields": {
+    "short_id": "2988",
+    "name": "[S] ==>",
+    "number": 2988,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 63,
+  "fields": {
+    "short_id": "3001",
+    "name": "[S] Jade: STRIFE!!!!!!!!!!!!",
+    "number": 3001,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 64,
+  "fields": {
+    "short_id": "3079",
+    "name": "[S] John: Enter village.",
+    "number": 3079,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 65,
+  "fields": {
+    "short_id": "3087",
+    "name": "[S] JOHN. RISE UP.",
+    "number": 3087,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 66,
+  "fields": {
+    "short_id": "3297",
+    "name": "[S] Wake.",
+    "number": 3297,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 67,
+  "fields": {
+    "short_id": "3321",
+    "name": "[S] Kanaya: Return to the core.",
+    "number": 3321,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 68,
+  "fields": {
+    "short_id": "3438",
+    "name": "[S] Equius: Seek the highb100d.",
+    "number": 3438,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 69,
+  "fields": {
+    "short_id": "3520",
+    "name": "[S] 3x SHOWDOWN COMBO.",
+    "number": 3520,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 70,
+  "fields": {
+    "short_id": "3679",
+    "name": "[S] All: Behold glory of Zillyhoo.",
+    "number": 3679,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 71,
+  "fields": {
+    "short_id": "3695",
+    "name": "[S] Seer: Descend.",
+    "number": 3695,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 72,
+  "fields": {
+    "short_id": "3696",
+    "name": "[S] ==>",
+    "number": 3696,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 73,
+  "fields": {
+    "short_id": "3718",
+    "name": "[S] Terezi: Read note.",
+    "number": 3718,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 74,
+  "fields": {
+    "short_id": "3725",
+    "name": "[S] Terezi: Play records.",
+    "number": 3725,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 75,
+  "fields": {
+    "short_id": "3744",
+    "name": "[S] Seer: Ascend.",
+    "number": 3744,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 76,
+  "fields": {
+    "short_id": "3760",
+    "name": "[S] Flip.",
+    "number": 3760,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 77,
+  "fields": {
+    "short_id": "3952",
+    "name": "[S][o] ==>",
+    "number": 3952,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 78,
+  "fields": {
+    "short_id": "4085",
+    "name": "[S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO.",
+    "number": 4085,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 79,
+  "fields": {
+    "short_id": "4109",
+    "name": "[S] Cascade.",
+    "number": 4109,
+    "act": 7,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 80,
+  "fields": {
+    "short_id": "4111",
+    "name": "[S] Begin intermission 2.",
+    "number": 4111,
+    "act": 8,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 81,
+  "fields": {
+    "short_id": "4113",
+    "name": "[S] ACT 6",
+    "number": 4113,
+    "act": 9,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 82,
+  "fields": {
+    "short_id": "4275",
+    "name": "[S] ==>",
+    "number": 4275,
+    "act": 9,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 83,
+  "fields": {
+    "short_id": "4282",
+    "name": "[S] Jane: Get mail.",
+    "number": 4282,
+    "act": 9,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 84,
+  "fields": {
+    "short_id": "4373",
+    "name": "[S][A6I1] Karkat: Mental breakdown.",
+    "number": 4373,
+    "act": 10,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 85,
+  "fields": {
+    "short_id": "4390",
+    "name": "[S] END OF ACT 6 INTERMISSION 1",
+    "number": 4390,
+    "act": 10,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 86,
+  "fields": {
+    "short_id": "4486",
+    "name": "[S] Roxy: Sleepwalk.",
+    "number": 4486,
+    "act": 11,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 87,
+  "fields": {
+    "short_id": "4541",
+    "name": "[S] RAP-OFF!!!!!!!!!!",
+    "number": 4541,
+    "act": 11,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 88,
+  "fields": {
+    "short_id": "4572",
+    "name": "[S] Prince of Heart: Rise up.",
+    "number": 4572,
+    "act": 11,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 89,
+  "fields": {
+    "short_id": "4617",
+    "name": "[S] Frigglish: Fast forward to Jaspersprite.",
+    "number": 4617,
+    "act": 11,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 90,
+  "fields": {
+    "short_id": "pony2",
+    "name": "[S] Ride.",
+    "number": null,
+    "act": 11,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 91,
+  "fields": {
+    "short_id": "4665",
+    "name": "[S] Jane: Enter.",
+    "number": 4665,
+    "act": 11,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 92,
+  "fields": {
+    "short_id": "4815",
+    "name": "[S][A6I2] ???",
+    "number": 4815,
+    "act": 12,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 93,
+  "fields": {
+    "short_id": "4820",
+    "name": "[S] ACT 6 ACT 3",
+    "number": 4820,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 94,
+  "fields": {
+    "short_id": "4825",
+    "name": "[S] Jane: Proceed.",
+    "number": 4825,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 95,
+  "fields": {
+    "short_id": "4827",
+    "name": "[S] Jane: Cautiously approach.",
+    "number": 4827,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 96,
+  "fields": {
+    "short_id": "4942",
+    "name": "[S] DD: Ascend.",
+    "number": 4942,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 97,
+  "fields": {
+    "short_id": "4944",
+    "name": "[S] DD: Ascend more casually.",
+    "number": 4944,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 98,
+  "fields": {
+    "short_id": "5027",
+    "name": "[S] Terry: Fast forward to Liv.",
+    "number": 5027,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 99,
+  "fields": {
+    "short_id": "5238",
+    "name": "[S] Dirk: Synchronize.",
+    "number": 5238,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 100,
+  "fields": {
+    "short_id": "5252",
+    "name": "[S] Dirk: Unite.",
+    "number": 5252,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 101,
+  "fields": {
+    "short_id": "5261",
+    "name": "[S] Caliborn: Enter.",
+    "number": 5261,
+    "act": 13,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 102,
+  "fields": {
+    "short_id": "5263",
+    "name": "[S] ACT 6 INTERMISSION 3",
+    "number": 5263,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 103,
+  "fields": {
+    "short_id": "5308",
+    "name": "[S][A6I3] ==>",
+    "number": 5308,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 104,
+  "fields": {
+    "short_id": "5373",
+    "name": "[S][A6I3] ==>",
+    "number": 5373,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 105,
+  "fields": {
+    "short_id": "5374",
+    "name": "[S][A6I3] ==>",
+    "number": 5374,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 106,
+  "fields": {
+    "short_id": "5375",
+    "name": "[S][A6I3] ==>",
+    "number": 5375,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 107,
+  "fields": {
+    "short_id": "5376",
+    "name": "[S][A6I3] ==>",
+    "number": 5376,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 108,
+  "fields": {
+    "short_id": "5377",
+    "name": "[S][A6I3] ==>",
+    "number": 5377,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 109,
+  "fields": {
+    "short_id": "5398",
+    "name": "[S][A6I3] ==>",
+    "number": 5398,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 110,
+  "fields": {
+    "short_id": "5426",
+    "name": "[S][A6I3] ==>",
+    "number": 5426,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 111,
+  "fields": {
+    "short_id": "5427",
+    "name": "[S][A6I3] MINISTRIFE!!!",
+    "number": 5427,
+    "act": 14,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 112,
+  "fields": {
+    "short_id": "5438",
+    "name": "[S] ACT 6 ACT 4",
+    "number": 5438,
+    "act": 15,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 113,
+  "fields": {
+    "short_id": "5440",
+    "name": "[S] ==>",
+    "number": 5440,
+    "act": 15,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 114,
+  "fields": {
+    "short_id": "5471",
+    "name": "[S][A6I4] ==>",
+    "number": 5471,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 115,
+  "fields": {
+    "short_id": "5472",
+    "name": "[S][A6I4] ==>",
+    "number": 5472,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 116,
+  "fields": {
+    "short_id": "5473",
+    "name": "[S][A6I4] ==>",
+    "number": 5473,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 117,
+  "fields": {
+    "short_id": "5474",
+    "name": "[S][A6I4] ==>",
+    "number": 5474,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 118,
+  "fields": {
+    "short_id": "5485",
+    "name": "[S][A6I4] ==>",
+    "number": 5485,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 119,
+  "fields": {
+    "short_id": "5494",
+    "name": "[S!][A6I4] ==>",
+    "number": 5494,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 120,
+  "fields": {
+    "short_id": "5495",
+    "name": "[!!!][A6I4] ==>",
+    "number": 5495,
+    "act": 16,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 121,
+  "fields": {
+    "short_id": "5512",
+    "name": "[S] ACT 6 ACT 5",
+    "number": 5512,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 122,
+  "fields": {
+    "short_id": "5655",
+    "name": "[S] Ride.",
+    "number": 5655,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 123,
+  "fields": {
+    "short_id": "5711",
+    "name": "[S] Jane: Engage.",
+    "number": 5711,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 124,
+  "fields": {
+    "short_id": "5712",
+    "name": "[S] Jane: Blast off.",
+    "number": 5712,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 125,
+  "fields": {
+    "short_id": "5714",
+    "name": "[S] ACT 6 ACT 5 ACT 2",
+    "number": 5714,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 126,
+  "fields": {
+    "short_id": "5726",
+    "name": "[S] ==>",
+    "number": 5726,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 127,
+  "fields": {
+    "short_id": "5740",
+    "name": "[S] ==>",
+    "number": 5740,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 128,
+  "fields": {
+    "short_id": "5759",
+    "name": "[S] ==>",
+    "number": 5759,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 129,
+  "fields": {
+    "short_id": "5763",
+    "name": "[S] Tricksters: Alchemize.",
+    "number": 5763,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 130,
+  "fields": {
+    "short_id": "5764",
+    "name": "[S] ==>",
+    "number": 5764,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 131,
+  "fields": {
+    "short_id": "5776",
+    "name": "[S] WHEEEEEEEEEEE!",
+    "number": 5776,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 132,
+  "fields": {
+    "short_id": "5777",
+    "name": "[S] HA HA HA! HE HE HE! HO HO HO!",
+    "number": 5777,
+    "act": 17,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 133,
+  "fields": {
+    "short_id": "5981",
+    "name": "[S][A6I5] BEGIN INTERFISHIN",
+    "number": 5981,
+    "act": 18,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 134,
+  "fields": {
+    "short_id": "5997",
+    "name": "[S][A6I5] ==>",
+    "number": 5997,
+    "act": 18,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 135,
+  "fields": {
+    "short_id": "6066",
+    "name": "[S][A6I5] END OF ACT 6 INTERMISSION 5 INTERMISSION 4",
+    "number": 6066,
+    "act": 18,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 136,
+  "fields": {
+    "short_id": "6231",
+    "name": "[S][A6I5] ==>",
+    "number": 6231,
+    "act": 18,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 137,
+  "fields": {
+    "short_id": "6243",
+    "name": "[S] ACT 6 ACT 6",
+    "number": 6243,
+    "act": 19,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 138,
+  "fields": {
+    "short_id": "6278",
+    "name": "[S] ACT 6 ACT 6 INTERMISSION 1",
+    "number": 6278,
+    "act": 20,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 139,
+  "fields": {
+    "short_id": "6400",
+    "name": "[S][A6A6I1] ====>",
+    "number": 6400,
+    "act": 20,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 140,
+  "fields": {
+    "short_id": "6552",
+    "name": "[S][A6A6I2] ====>",
+    "number": 6552,
+    "act": 21,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 141,
+  "fields": {
+    "short_id": "6901",
+    "name": "[S] GAME OVER.",
+    "number": 6901,
+    "act": 22,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 142,
+  "fields": {
+    "short_id": "7086",
+    "name": "[S][A6A6I4] ====>",
+    "number": 7086,
+    "act": 23,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 143,
+  "fields": {
+    "short_id": "7098",
+    "name": "[S][A6A6I4] ====>",
+    "number": 7098,
+    "act": 23,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 144,
+  "fields": {
+    "short_id": "7101",
+    "name": "[S][A6A6I4] ====>",
+    "number": 7101,
+    "act": 23,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 145,
+  "fields": {
+    "short_id": "7405",
+    "name": "[S][A6A6I4] ====>",
+    "number": 7405,
+    "act": 23,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 146,
+  "fields": {
+    "short_id": "7409",
+    "name": "[S] ACT 6 ACT 6 ACT 5",
+    "number": 7409,
+    "act": 24,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 147,
+  "fields": {
+    "short_id": "7448",
+    "name": "[S] MSPA Reader: Mental breakdown.",
+    "number": 7448,
+    "act": 24,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 148,
+  "fields": {
+    "short_id": "7449",
+    "name": "[S] ACT 6 ACT 6 INTERMISSION 5",
+    "number": 7449,
+    "act": 25,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 149,
+  "fields": {
+    "short_id": "7635",
+    "name": "[S][A6A6I5] ====>",
+    "number": 7635,
+    "act": 25,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 150,
+  "fields": {
+    "short_id": "7928",
+    "name": "[S][A6A6I5] ====>",
+    "number": 7928,
+    "act": 25,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 151,
+  "fields": {
+    "short_id": "7959",
+    "name": "[S] Terezi: Remem8er.",
+    "number": 7959,
+    "act": 25,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 152,
+  "fields": {
+    "short_id": "8087",
+    "name": "[S] Collide.",
+    "number": 8087,
+    "act": 26,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 153,
+  "fields": {
+    "short_id": "8127",
+    "name": "[S] ACT 7",
+    "number": 8127,
+    "act": 27,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 154,
+  "fields": {
+    "short_id": "8129",
+    "name": "[S] ==>",
+    "number": 8129,
+    "act": 27,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.page",
+  "pk": 155,
+  "fields": {
+    "short_id": "8130",
+    "name": "[S] ==>",
+    "number": 8130,
+    "act": 27,
+    "comic": 1
+  }
+}
+]

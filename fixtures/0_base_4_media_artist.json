@@ -1,0 +1,1982 @@
+[
+{
+  "model": "base.mediaartist",
+  "pk": 1,
+  "fields": {
+    "media": 50,
+    "artist": 768,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 2,
+  "fields": {
+    "media": 50,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 3,
+  "fields": {
+    "media": 52,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 4,
+  "fields": {
+    "media": 52,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 5,
+  "fields": {
+    "media": 52,
+    "artist": 528,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 6,
+  "fields": {
+    "media": 52,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 7,
+  "fields": {
+    "media": 52,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 8,
+  "fields": {
+    "media": 52,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 9,
+  "fields": {
+    "media": 52,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 10,
+  "fields": {
+    "media": 52,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 11,
+  "fields": {
+    "media": 52,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 12,
+  "fields": {
+    "media": 52,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 13,
+  "fields": {
+    "media": 54,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 14,
+  "fields": {
+    "media": 54,
+    "artist": 1378,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 15,
+  "fields": {
+    "media": 54,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 16,
+  "fields": {
+    "media": 54,
+    "artist": 384,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 17,
+  "fields": {
+    "media": 54,
+    "artist": 528,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 18,
+  "fields": {
+    "media": 54,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 19,
+  "fields": {
+    "media": 54,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 20,
+  "fields": {
+    "media": 54,
+    "artist": 1477,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 21,
+  "fields": {
+    "media": 54,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 22,
+  "fields": {
+    "media": 54,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 23,
+  "fields": {
+    "media": 54,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 24,
+  "fields": {
+    "media": 54,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 25,
+  "fields": {
+    "media": 54,
+    "artist": 1169,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 26,
+  "fields": {
+    "media": 54,
+    "artist": 800,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 27,
+  "fields": {
+    "media": 54,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 28,
+  "fields": {
+    "media": 54,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 29,
+  "fields": {
+    "media": 58,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 30,
+  "fields": {
+    "media": 58,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 31,
+  "fields": {
+    "media": 58,
+    "artist": 528,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 32,
+  "fields": {
+    "media": 58,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 33,
+  "fields": {
+    "media": 58,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 34,
+  "fields": {
+    "media": 58,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 35,
+  "fields": {
+    "media": 58,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 36,
+  "fields": {
+    "media": 58,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 37,
+  "fields": {
+    "media": 60,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 38,
+  "fields": {
+    "media": 60,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 39,
+  "fields": {
+    "media": 60,
+    "artist": 528,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 40,
+  "fields": {
+    "media": 60,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 41,
+  "fields": {
+    "media": 60,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 42,
+  "fields": {
+    "media": 60,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 43,
+  "fields": {
+    "media": 60,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 44,
+  "fields": {
+    "media": 60,
+    "artist": 800,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 45,
+  "fields": {
+    "media": 60,
+    "artist": 1169,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 46,
+  "fields": {
+    "media": 60,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 47,
+  "fields": {
+    "media": 61,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 48,
+  "fields": {
+    "media": 61,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 49,
+  "fields": {
+    "media": 61,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 50,
+  "fields": {
+    "media": 61,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 51,
+  "fields": {
+    "media": 61,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 52,
+  "fields": {
+    "media": 61,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 53,
+  "fields": {
+    "media": 61,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 54,
+  "fields": {
+    "media": 61,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 55,
+  "fields": {
+    "media": 61,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 56,
+  "fields": {
+    "media": 64,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 57,
+  "fields": {
+    "media": 64,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 58,
+  "fields": {
+    "media": 64,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 59,
+  "fields": {
+    "media": 64,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 60,
+  "fields": {
+    "media": 64,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 61,
+  "fields": {
+    "media": 64,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 62,
+  "fields": {
+    "media": 64,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 63,
+  "fields": {
+    "media": 64,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 64,
+  "fields": {
+    "media": 65,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 65,
+  "fields": {
+    "media": 67,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 66,
+  "fields": {
+    "media": 67,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 67,
+  "fields": {
+    "media": 67,
+    "artist": 528,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 68,
+  "fields": {
+    "media": 67,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 69,
+  "fields": {
+    "media": 67,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 70,
+  "fields": {
+    "media": 67,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 71,
+  "fields": {
+    "media": 67,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 72,
+  "fields": {
+    "media": 67,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 73,
+  "fields": {
+    "media": 67,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 74,
+  "fields": {
+    "media": 67,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 75,
+  "fields": {
+    "media": 68,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 76,
+  "fields": {
+    "media": 68,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 77,
+  "fields": {
+    "media": 68,
+    "artist": 528,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 78,
+  "fields": {
+    "media": 68,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 79,
+  "fields": {
+    "media": 68,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 80,
+  "fields": {
+    "media": 68,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 81,
+  "fields": {
+    "media": 68,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 82,
+  "fields": {
+    "media": 68,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 83,
+  "fields": {
+    "media": 68,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 84,
+  "fields": {
+    "media": 68,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 85,
+  "fields": {
+    "media": 69,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 86,
+  "fields": {
+    "media": 69,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 87,
+  "fields": {
+    "media": 69,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 88,
+  "fields": {
+    "media": 69,
+    "artist": 800,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 89,
+  "fields": {
+    "media": 69,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 90,
+  "fields": {
+    "media": 71,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 91,
+  "fields": {
+    "media": 71,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 92,
+  "fields": {
+    "media": 71,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 93,
+  "fields": {
+    "media": 71,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 94,
+  "fields": {
+    "media": 71,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 95,
+  "fields": {
+    "media": 71,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 96,
+  "fields": {
+    "media": 71,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 97,
+  "fields": {
+    "media": 72,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 98,
+  "fields": {
+    "media": 75,
+    "artist": 1378,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 99,
+  "fields": {
+    "media": 75,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 100,
+  "fields": {
+    "media": 75,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 101,
+  "fields": {
+    "media": 75,
+    "artist": 1477,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 102,
+  "fields": {
+    "media": 75,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 103,
+  "fields": {
+    "media": 75,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 104,
+  "fields": {
+    "media": 75,
+    "artist": 800,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 105,
+  "fields": {
+    "media": 75,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 106,
+  "fields": {
+    "media": 75,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 107,
+  "fields": {
+    "media": 78,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 108,
+  "fields": {
+    "media": 78,
+    "artist": 660,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 109,
+  "fields": {
+    "media": 79,
+    "artist": 154,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 110,
+  "fields": {
+    "media": 79,
+    "artist": 380,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 111,
+  "fields": {
+    "media": 79,
+    "artist": 660,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 112,
+  "fields": {
+    "media": 79,
+    "artist": 667,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 113,
+  "fields": {
+    "media": 79,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 114,
+  "fields": {
+    "media": 79,
+    "artist": 981,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 115,
+  "fields": {
+    "media": 79,
+    "artist": 1477,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 116,
+  "fields": {
+    "media": 79,
+    "artist": 840,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 117,
+  "fields": {
+    "media": 79,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 118,
+  "fields": {
+    "media": 79,
+    "artist": 994,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 119,
+  "fields": {
+    "media": 79,
+    "artist": 1069,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 120,
+  "fields": {
+    "media": 79,
+    "artist": 800,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 121,
+  "fields": {
+    "media": 79,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 122,
+  "fields": {
+    "media": 79,
+    "artist": 1169,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 123,
+  "fields": {
+    "media": 79,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 124,
+  "fields": {
+    "media": 79,
+    "artist": 1307,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 125,
+  "fields": {
+    "media": 102,
+    "artist": 54,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 126,
+  "fields": {
+    "media": 102,
+    "artist": 201,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 127,
+  "fields": {
+    "media": 102,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 128,
+  "fields": {
+    "media": 102,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 129,
+  "fields": {
+    "media": 102,
+    "artist": 1050,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 130,
+  "fields": {
+    "media": 102,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 131,
+  "fields": {
+    "media": 102,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 132,
+  "fields": {
+    "media": 102,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 133,
+  "fields": {
+    "media": 102,
+    "artist": 1307,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 134,
+  "fields": {
+    "media": 102,
+    "artist": 1165,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 135,
+  "fields": {
+    "media": 103,
+    "artist": 54,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 136,
+  "fields": {
+    "media": 103,
+    "artist": 201,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 137,
+  "fields": {
+    "media": 103,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 138,
+  "fields": {
+    "media": 103,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 139,
+  "fields": {
+    "media": 103,
+    "artist": 1050,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 140,
+  "fields": {
+    "media": 103,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 141,
+  "fields": {
+    "media": 103,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 142,
+  "fields": {
+    "media": 103,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 143,
+  "fields": {
+    "media": 103,
+    "artist": 1307,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 144,
+  "fields": {
+    "media": 103,
+    "artist": 1165,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 145,
+  "fields": {
+    "media": 109,
+    "artist": 54,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 146,
+  "fields": {
+    "media": 109,
+    "artist": 201,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 147,
+  "fields": {
+    "media": 109,
+    "artist": 670,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 148,
+  "fields": {
+    "media": 109,
+    "artist": 892,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 149,
+  "fields": {
+    "media": 109,
+    "artist": 1050,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 150,
+  "fields": {
+    "media": 109,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 151,
+  "fields": {
+    "media": 109,
+    "artist": 657,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 152,
+  "fields": {
+    "media": 109,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 153,
+  "fields": {
+    "media": 109,
+    "artist": 1307,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 154,
+  "fields": {
+    "media": 109,
+    "artist": 1165,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 155,
+  "fields": {
+    "media": 111,
+    "artist": 386,
+    "artist_type": "artist",
+    "notes": "art: character sprites"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 156,
+  "fields": {
+    "media": 111,
+    "artist": 1050,
+    "artist_type": "artist",
+    "notes": "art: background sprites"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 157,
+  "fields": {
+    "media": 111,
+    "artist": 1075,
+    "artist_type": "artist",
+    "notes": "art: last panel"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 158,
+  "fields": {
+    "media": 141,
+    "artist": 459,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 159,
+  "fields": {
+    "media": 141,
+    "artist": 741,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 160,
+  "fields": {
+    "media": 141,
+    "artist": 552,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 161,
+  "fields": {
+    "media": 141,
+    "artist": 989,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 162,
+  "fields": {
+    "media": 141,
+    "artist": 1332,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 163,
+  "fields": {
+    "media": 141,
+    "artist": 498,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 164,
+  "fields": {
+    "media": 148,
+    "artist": 1307,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 165,
+  "fields": {
+    "media": 148,
+    "artist": 15,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 166,
+  "fields": {
+    "media": 148,
+    "artist": 486,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 167,
+  "fields": {
+    "media": 148,
+    "artist": 989,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 168,
+  "fields": {
+    "media": 148,
+    "artist": 498,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 169,
+  "fields": {
+    "media": 149,
+    "artist": 966,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 170,
+  "fields": {
+    "media": 150,
+    "artist": 1446,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 171,
+  "fields": {
+    "media": 151,
+    "artist": 15,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 172,
+  "fields": {
+    "media": 151,
+    "artist": 486,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 173,
+  "fields": {
+    "media": 151,
+    "artist": 73,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 174,
+  "fields": {
+    "media": 151,
+    "artist": 1075,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 175,
+  "fields": {
+    "media": 151,
+    "artist": 966,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 176,
+  "fields": {
+    "media": 152,
+    "artist": 15,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 177,
+  "fields": {
+    "media": 152,
+    "artist": 25,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 178,
+  "fields": {
+    "media": 152,
+    "artist": 73,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 179,
+  "fields": {
+    "media": 152,
+    "artist": 176,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 180,
+  "fields": {
+    "media": 152,
+    "artist": 201,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 181,
+  "fields": {
+    "media": 152,
+    "artist": 282,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 182,
+  "fields": {
+    "media": 152,
+    "artist": 477,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 183,
+  "fields": {
+    "media": 152,
+    "artist": 552,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 184,
+  "fields": {
+    "media": 152,
+    "artist": 555,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 185,
+  "fields": {
+    "media": 152,
+    "artist": 741,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 186,
+  "fields": {
+    "media": 152,
+    "artist": 920,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 187,
+  "fields": {
+    "media": 152,
+    "artist": 966,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 188,
+  "fields": {
+    "media": 152,
+    "artist": 992,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 189,
+  "fields": {
+    "media": 152,
+    "artist": 1075,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 190,
+  "fields": {
+    "media": 152,
+    "artist": 1168,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 191,
+  "fields": {
+    "media": 152,
+    "artist": 1177,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 192,
+  "fields": {
+    "media": 152,
+    "artist": 1231,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 193,
+  "fields": {
+    "media": 152,
+    "artist": 1277,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 194,
+  "fields": {
+    "media": 152,
+    "artist": 1307,
+    "artist_type": "other",
+    "notes": "art"
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 195,
+  "fields": {
+    "media": 153,
+    "artist": 73,
+    "artist_type": "artist",
+    "notes": null
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 196,
+  "fields": {
+    "media": 153,
+    "artist": 75,
+    "artist_type": "artist",
+    "notes": null
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 197,
+  "fields": {
+    "media": 153,
+    "artist": 520,
+    "artist_type": "artist",
+    "notes": null
+  }
+},
+{
+  "model": "base.mediaartist",
+  "pk": 198,
+  "fields": {
+    "media": 155,
+    "artist": 15,
+    "artist_type": "artist",
+    "notes": null
+  }
+}
+]

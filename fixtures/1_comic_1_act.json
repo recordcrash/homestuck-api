@@ -1,0 +1,354 @@
+[
+{
+  "model": "comic.act",
+  "pk": 1,
+  "fields": {
+    "short_id": "a1",
+    "name": "Act 1 - The Note Desolation Plays",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 2,
+  "fields": {
+    "short_id": "a2",
+    "name": "Act 2 - Raise of the Conductor's Baton",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 3,
+  "fields": {
+    "short_id": "a3",
+    "name": "Act 3 - Insane Corkscrew Haymakers",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 4,
+  "fields": {
+    "short_id": "i1",
+    "name": "Intermission - Don't Bleed on the Suits.",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 5,
+  "fields": {
+    "short_id": "a4",
+    "name": "Act 4 - Flight of the Paradox Clones",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 6,
+  "fields": {
+    "short_id": "a5a1",
+    "name": "Act 5 Act 1 - <span style=\"color: #008282\">MOB1US DOUBL3 R34CH4ROUND</span>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 7,
+  "fields": {
+    "short_id": "a5a2",
+    "name": "Act 5 Act 2 - <span style=\"color: #2ed73a\">He is already here.</span>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 8,
+  "fields": {
+    "short_id": "i2",
+    "name": "Intermission 2 - The Man in the Cairo Overcoat.",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 9,
+  "fields": {
+    "short_id": "a6a1",
+    "name": "Act 6 Act 1 - Through Broken Glass",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 10,
+  "fields": {
+    "short_id": "a6i1",
+    "name": "Act 6 Intermission 1 - corpse party",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 11,
+  "fields": {
+    "short_id": "a6a2",
+    "name": "Act 6 Act 2 - Your shit is wrecked.",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 12,
+  "fields": {
+    "short_id": "a6i2",
+    "name": "Act 6 Intermission 2 - penis ouija",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 13,
+  "fields": {
+    "short_id": "a6a3",
+    "name": "Act 6 Act 3 - Nobles",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 14,
+  "fields": {
+    "short_id": "a6i3",
+    "name": "Act 6 Intermission 3 - Ballet of the Dancestors",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 15,
+  "fields": {
+    "short_id": "a6a4",
+    "name": "Act 6 Act 4 - Void",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 16,
+  "fields": {
+    "short_id": "a6i4",
+    "name": "Act 6 Intermission 4 - Dead",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 17,
+  "fields": {
+    "short_id": "a6a5",
+    "name": "Act 6 Act 5 - Of Gods and Tricksters",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 18,
+  "fields": {
+    "short_id": "a6i5",
+    "name": "Act 6 Intermission 5 - <span style=\"color: #929292\">I'M PUTTING YOU ON SPEAKER CRAB.</span>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 19,
+  "fields": {
+    "short_id": "a6a6a1",
+    "name": "Act 6 Act 6 Act 1 - HOMOSUCK",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 20,
+  "fields": {
+    "short_id": "a6a6i1",
+    "name": "Act 6 Act 6 Intermission 1 - Stardust",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 21,
+  "fields": {
+    "short_id": "a6a6i2",
+    "name": "Act 6 Act 6 Intermission 2 - theres problems",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 22,
+  "fields": {
+    "short_id": "a6a6i3",
+    "name": "Act 6 Act 6 Intermission 3 - GAME OVER",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 23,
+  "fields": {
+    "short_id": "a6a6i4",
+    "name": "Act 6 Act 6 Intermission 4 - <span style=\"color: #008282\">F1X TH1S</span>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 24,
+  "fields": {
+    "short_id": "a6a6a5",
+    "name": "Act 6 Act 6 Act 5 - MASTERPIECE",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 25,
+  "fields": {
+    "short_id": "a6a6i5",
+    "name": "Act 6 Act 6 Intermission 5 - <span style=\"color: #1076a2\">She's 8ack</span>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 26,
+  "fields": {
+    "short_id": "a6a6a6",
+    "name": "Act 6 Act 6 Act 6 - <span style=\"color: #ff0000\">Collide.</span>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 27,
+  "fields": {
+    "short_id": "a7",
+    "name": "Act 7 - <span style=\"color: #c7ff43\">The Rapture</span><br><i>&amp; Post Canon</i>",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 28,
+  "fields": {
+    "short_id": "hiveswap",
+    "name": "Hiveswap",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 29,
+  "fields": {
+    "short_id": "friendsim",
+    "name": "Hiveswap Friendsim",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 30,
+  "fields": {
+    "short_id": "pesterquest",
+    "name": "Pesterquest",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 31,
+  "fields": {
+    "short_id": "psycholonials",
+    "name": "Psycholonials",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+},
+{
+  "model": "comic.act",
+  "pk": 32,
+  "fields": {
+    "short_id": "miscellaneous",
+    "name": "Miscellaneous",
+    "start_date": null,
+    "end_date": null,
+    "comic": 1
+  }
+}
+]
