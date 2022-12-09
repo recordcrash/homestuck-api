@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q%9+^k2^(tvb(b#*da&!1ofx-!a_lad8p)*^b(2c8dvwaptp1-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DEBUG', False)
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['homestuck.net', 'recordcrash.com']
 
 # Application definition
 
