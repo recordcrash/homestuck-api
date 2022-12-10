@@ -26,8 +26,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY')
 DEBUG = os.environ.get('DEBUG', False)
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '0.0.0.0', 'homestuck.net', 'api.homestuck.net', 'recordcrash.com']
-CSRF_TRUSTED_ORIGINS = ['homestuck.net', 'api.homestuck.net', 'recordcrash.com', 'https://homestuck.net',
-                        'https://api.homestuck.net', 'https://recordcrash.com']
+CSRF_TRUSTED_ORIGINS = ['https://homestuck.net', 'https://api.homestuck.net', 'https://recordcrash.com']
 
 # Application definition
 
