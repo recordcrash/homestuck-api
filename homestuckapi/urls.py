@@ -13,14 +13,19 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+import os
+
 from django.conf import settings
 from django.conf.urls import include
+from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path
-from django.conf.urls.static import static
 
-urlpatterns = [
-    path('uncrashed-records/', admin.site.urls),
-    path('api-auth/', include('rest_framework.urls')),
-    path('__debug__/', include('debug_toolbar.urls')),
-] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+API_BASE_URL = os.environ.get('API_BASE_URL', 'api-v2/')
+
+urlpatterns = \
+    [
+        path(f'{API_BASE_URL}uncrashed-records/', admin.site.urls),
+        path(f'{API_BASE_URL}api-auth/', include('rest_framework.urls')),
+        path(f'{API_BASE_URL}__debug__/', include('debug_toolbar.urls')),
+    ] + static(f'{API_BASE_URL}{settings.MEDIA_URL}', document_root=settings.MEDIA_ROOT)
